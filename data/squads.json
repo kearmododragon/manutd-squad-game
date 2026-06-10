@@ -1,0 +1,22 @@
+[
+  {
+    "season": "2007/08",
+    "players": [
+      { "name": "Cristiano Ronaldo", "positions": ["LW", "RW"], "rating": 96 },
+      { "name": "Wayne Rooney", "positions": ["ST", "CF"], "rating": 90 },
+      { "name": "Paul Scholes", "positions": ["CM"], "rating": 89 },
+      { "name": "Ryan Giggs", "positions": ["LM", "LW"], "rating": 87 },
+      { "name": "Rio Ferdinand", "positions": ["CB"], "rating": 91 }
+    ]
+  },
+  {
+    "season": "2010/11",
+    "players": [
+      { "name": "Wayne Rooney", "positions": ["ST", "CF"], "rating": 92 },
+      { "name": "Nani", "positions": ["RW", "LW"], "rating": 86 },
+      { "name": "Ryan Giggs", "positions": ["LM", "CM"], "rating": 85 },
+      { "name": "Michael Carrick", "positions": ["CM"], "rating": 87 },
+      { "name": "Nemanja Vidic", "positions": ["CB"], "rating": 92 }
+    ]
+  }
+]
