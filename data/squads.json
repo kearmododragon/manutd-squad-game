@@ -1,22 +1,5315 @@
-[
-  {
-    "season": "2007/08",
-    "players": [
-      { "name": "Cristiano Ronaldo", "positions": ["LW", "RW"], "rating": 96 },
-      { "name": "Wayne Rooney", "positions": ["ST", "CF"], "rating": 90 },
-      { "name": "Paul Scholes", "positions": ["CM"], "rating": 89 },
-      { "name": "Ryan Giggs", "positions": ["LM", "LW"], "rating": 87 },
-      { "name": "Rio Ferdinand", "positions": ["CB"], "rating": 91 }
-    ]
+[{
+  "season": "1992/93",
+  "manager": {
+    "name": "Sir Alex Ferguson",
+    "nationality": "Scotland",
+    "rating": 92,
+    "hidden_attributes": {
+      "tactical": 90,
+      "man_management": 95,
+      "adaptability": 88
+    }
   },
-  {
-    "season": "2010/11",
-    "players": [
-      { "name": "Wayne Rooney", "positions": ["ST", "CF"], "rating": 92 },
-      { "name": "Nani", "positions": ["RW", "LW"], "rating": 86 },
-      { "name": "Ryan Giggs", "positions": ["LM", "CM"], "rating": 85 },
-      { "name": "Michael Carrick", "positions": ["CM"], "rating": 87 },
-      { "name": "Nemanja Vidic", "positions": ["CB"], "rating": 92 }
-    ]
-  }
+  "players": [
+    {
+      "name": "Peter Schmeichel",
+      "nationality": "Denmark",
+      "positions": ["GK"],
+      "rating": 91,
+      "hidden_attributes": {
+        "reflexes": 93,
+        "command": 94,
+        "distribution": 70,
+        "aerial": 88
+      }
+    },
+    {
+      "name": "Gary Walsh",
+      "nationality": "England",
+      "positions": ["GK"],
+      "rating": 75,
+      "hidden_attributes": {
+        "reflexes": 76,
+        "command": 70,
+        "distribution": 65,
+        "aerial": 72
+      }
+    },
+    {
+      "name": "Steve Bruce",
+      "nationality": "England",
+      "positions": ["CB"],
+      "rating": 86,
+      "hidden_attributes": {
+        "defending": 87,
+        "leadership": 92,
+        "strength": 88,
+        "positioning": 85
+      }
+    },
+    {
+      "name": "Gary Pallister",
+      "nationality": "England",
+      "positions": ["CB"],
+      "rating": 87,
+      "hidden_attributes": {
+        "defending": 89,
+        "strength": 90,
+        "aerial": 88,
+        "composure": 84
+      }
+    },
+    {
+      "name": "Denis Irwin",
+      "nationality": "Ireland",
+      "positions": ["LB", "RB"],
+      "rating": 86,
+      "hidden_attributes": {
+        "passing": 85,
+        "defending": 84,
+        "crossing": 86,
+        "stamina": 87
+      }
+    },
+    {
+      "name": "Paul Parker",
+      "nationality": "England",
+      "positions": ["RB"],
+      "rating": 82,
+      "hidden_attributes": {
+        "defending": 83,
+        "stamina": 84,
+        "crossing": 78,
+        "pace": 80
+      }
+    },
+    {
+      "name": "Bryan Robson",
+      "nationality": "England",
+      "positions": ["CM"],
+      "rating": 88,
+      "hidden_attributes": {
+        "passing": 86,
+        "shooting": 85,
+        "leadership": 95,
+        "stamina": 90
+      }
+    },
+    {
+      "name": "Paul Ince",
+      "nationality": "England",
+      "positions": ["CM"],
+      "rating": 87,
+      "hidden_attributes": {
+        "tackling": 88,
+        "passing": 84,
+        "aggression": 90,
+        "stamina": 88
+      }
+    },
+    {
+      "name": "Ryan Giggs",
+      "nationality": "Wales",
+      "positions": ["LM", "LW"],
+      "rating": 87,
+      "hidden_attributes": {
+        "pace": 90,
+        "dribbling": 88,
+        "crossing": 85,
+        "stamina": 84
+      }
+    },
+    {
+      "name": "Mark Hughes",
+      "nationality": "Wales",
+      "positions": ["ST"],
+      "rating": 88,
+      "hidden_attributes": {
+        "finishing": 89,
+        "strength": 88,
+        "movement": 85,
+        "composure": 87
+      }
+    },
+    {
+      "name": "Eric Cantona",
+      "nationality": "France",
+      "positions": ["CF", "ST"],
+      "rating": 92,
+      "hidden_attributes": {
+        "technique": 94,
+        "vision": 93,
+        "finishing": 91,
+        "temperament": 80
+      }
+    },
+    {
+      "name": "Andrei Kanchelskis",
+      "nationality": "Russia",
+      "positions": ["RW"],
+      "rating": 89,
+      "hidden_attributes": {
+        "pace": 93,
+        "dribbling": 87,
+        "crossing": 85,
+        "shooting": 84
+      }
+    },
+    {
+      "name": "Brian McClair",
+      "nationality": "Scotland",
+      "positions": ["ST", "CM"],
+      "rating": 86,
+      "hidden_attributes": {
+        "finishing": 87,
+        "passing": 82,
+        "movement": 84,
+        "composure": 86
+      }
+    },
+    {
+      "name": "Lee Sharpe",
+      "nationality": "England",
+      "positions": ["LW"],
+      "rating": 85,
+      "hidden_attributes": {
+        "pace": 88,
+        "dribbling": 86,
+        "crossing": 83,
+        "stamina": 85
+      }
+    },
+    {
+      "name": "Dion Dublin",
+      "nationality": "England",
+      "positions": ["ST"],
+      "rating": 84,
+      "hidden_attributes": {
+        "finishing": 85,
+        "strength": 88,
+        "aerial": 90,
+        "movement": 82
+      }
+    }
+  ]
+},
+
+{
+  "season": "1993/94",
+  "manager": {
+    "name": "Sir Alex Ferguson",
+    "nationality": "Scotland",
+    "rating": 93,
+    "hidden_attributes": {
+      "tactical": 91,
+      "man_management": 96,
+      "adaptability": 89
+    }
+  },
+  "players": [
+    {"name":"Peter Schmeichel","nationality":"Denmark","positions":["GK"],"rating":92,"hidden_attributes":{"reflexes":94,"command":95,"distribution":72,"aerial":89}},
+    {"name":"Gary Walsh","nationality":"England","positions":["GK"],"rating":75,"hidden_attributes":{"reflexes":76,"command":71,"distribution":66,"aerial":72}},
+
+    {"name":"Steve Bruce","nationality":"England","positions":["CB"],"rating":86,"hidden_attributes":{"defending":88,"leadership":93,"strength":88,"positioning":86}},
+    {"name":"Gary Pallister","nationality":"England","positions":["CB"],"rating":87,"hidden_attributes":{"defending":89,"strength":90,"aerial":88,"composure":85}},
+    {"name":"Denis Irwin","nationality":"Ireland","positions":["LB","RB"],"rating":86,"hidden_attributes":{"passing":86,"defending":85,"crossing":87,"stamina":88}},
+    {"name":"Paul Parker","nationality":"England","positions":["RB"],"rating":82,"hidden_attributes":{"defending":83,"stamina":84,"crossing":79,"pace":80}},
+
+    {"name":"Bryan Robson","nationality":"England","positions":["CM"],"rating":88,"hidden_attributes":{"passing":86,"shooting":86,"leadership":95,"stamina":90}},
+    {"name":"Paul Ince","nationality":"England","positions":["CM"],"rating":87,"hidden_attributes":{"tackling":89,"passing":85,"aggression":91,"stamina":88}},
+    {"name":"Ryan Giggs","nationality":"Wales","positions":["LM","LW"],"rating":88,"hidden_attributes":{"pace":91,"dribbling":89,"crossing":86,"stamina":85}},
+    {"name":"Andrei Kanchelskis","nationality":"Russia","positions":["RW"],"rating":90,"hidden_attributes":{"pace":94,"dribbling":88,"crossing":86,"shooting":85}},
+
+    {"name":"Eric Cantona","nationality":"France","positions":["CF","ST"],"rating":93,"hidden_attributes":{"technique":95,"vision":94,"finishing":92,"temperament":82}},
+    {"name":"Mark Hughes","nationality":"Wales","positions":["ST"],"rating":87,"hidden_attributes":{"finishing":88,"strength":88,"movement":85,"composure":86}},
+    {"name":"Brian McClair","nationality":"Scotland","positions":["ST","CM"],"rating":85,"hidden_attributes":{"finishing":86,"passing":83,"movement":84,"composure":85}},
+    {"name":"Lee Sharpe","nationality":"England","positions":["LW"],"rating":85,"hidden_attributes":{"pace":88,"dribbling":86,"crossing":84,"stamina":86}},
+    {"name":"David May","nationality":"England","positions":["CB"],"rating":80,"hidden_attributes":{"defending":82,"strength":84,"positioning":80,"aerial":83}}
+  ]
+},
+
+{
+  "season": "1994/95",
+  "manager": {
+    "name": "Sir Alex Ferguson",
+    "nationality": "Scotland",
+    "rating": 92,
+    "hidden_attributes": {
+      "tactical": 90,
+      "man_management": 95,
+      "adaptability": 88
+    }
+  },
+  "players": [
+    {"name":"Peter Schmeichel","nationality":"Denmark","positions":["GK"],"rating":92,"hidden_attributes":{"reflexes":94,"command":95,"distribution":73,"aerial":90}},
+    {"name":"Gary Walsh","nationality":"England","positions":["GK"],"rating":75,"hidden_attributes":{"reflexes":76,"command":71,"distribution":66,"aerial":72}},
+
+    {"name":"Steve Bruce","nationality":"England","positions":["CB"],"rating":85,"hidden_attributes":{"defending":87,"leadership":92,"strength":88,"positioning":85}},
+    {"name":"Gary Pallister","nationality":"England","positions":["CB"],"rating":86,"hidden_attributes":{"defending":88,"strength":89,"aerial":87,"composure":84}},
+    {"name":"Denis Irwin","nationality":"Ireland","positions":["LB","RB"],"rating":87,"hidden_attributes":{"passing":87,"defending":86,"crossing":88,"stamina":88}},
+
+    {"name":"Roy Keane","nationality":"Ireland","positions":["CM"],"rating":90,"hidden_attributes":{"tackling":92,"aggression":94,"passing":86,"leadership":93}},
+    {"name":"Paul Ince","nationality":"England","positions":["CM"],"rating":86,"hidden_attributes":{"tackling":88,"passing":84,"aggression":90,"stamina":87}},
+    {"name":"Ryan Giggs","nationality":"Wales","positions":["LM","LW"],"rating":88,"hidden_attributes":{"pace":91,"dribbling":89,"crossing":86,"stamina":86}},
+    {"name":"Andrei Kanchelskis","nationality":"Russia","positions":["RW"],"rating":89,"hidden_attributes":{"pace":93,"dribbling":87,"crossing":85,"shooting":84}},
+
+    {"name":"Eric Cantona","nationality":"France","positions":["CF","ST"],"rating":94,"hidden_attributes":{"technique":96,"vision":95,"finishing":93,"temperament":83}},
+    {"name":"Mark Hughes","nationality":"Wales","positions":["ST"],"rating":87,"hidden_attributes":{"finishing":88,"strength":88,"movement":85,"composure":86}},
+    {"name":"Andy Cole","nationality":"England","positions":["ST"],"rating":88,"hidden_attributes":{"finishing":90,"movement":88,"pace":86,"composure":85}},
+    {"name":"Brian McClair","nationality":"Scotland","positions":["ST","CM"],"rating":84,"hidden_attributes":{"finishing":85,"passing":83,"movement":83,"composure":85}},
+    {"name":"Lee Sharpe","nationality":"England","positions":["LW"],"rating":84,"hidden_attributes":{"pace":87,"dribbling":85,"crossing":83,"stamina":85}}
+  ]
+},
+
+{
+  "season": "1995/96",
+  "manager": {
+    "name": "Sir Alex Ferguson",
+    "nationality": "Scotland",
+    "rating": 93,
+    "hidden_attributes": {
+      "tactical": 91,
+      "man_management": 96,
+      "adaptability": 90
+    }
+  },
+  "players": [
+    {"name":"Peter Schmeichel","nationality":"Denmark","positions":["GK"],"rating":93,"hidden_attributes":{"reflexes":95,"command":96,"distribution":75,"aerial":91}},
+    {"name":"Gary Neville","nationality":"England","positions":["RB"],"rating":84,"hidden_attributes":{"defending":85,"stamina":86,"passing":75,"leadership":82}},
+    {"name":"Steve Bruce","nationality":"England","positions":["CB"],"rating":84,"hidden_attributes":{"defending":86,"leadership":92,"strength":87,"positioning":84}},
+    {"name":"Gary Pallister","nationality":"England","positions":["CB"],"rating":86,"hidden_attributes":{"defending":88,"strength":90,"aerial":88,"composure":85}},
+    {"name":"Denis Irwin","nationality":"Ireland","positions":["LB","RB"],"rating":87,"hidden_attributes":{"passing":87,"defending":86,"crossing":88,"stamina":88}},
+
+    {"name":"Roy Keane","nationality":"Ireland","positions":["CM"],"rating":91,"hidden_attributes":{"tackling":93,"aggression":95,"passing":87,"leadership":94}},
+    {"name":"Paul Scholes","nationality":"England","positions":["CM"],"rating":88,"hidden_attributes":{"passing":92,"shooting":88,"vision":91,"composure":90}},
+    {"name":"Ryan Giggs","nationality":"Wales","positions":["LM","LW"],"rating":89,"hidden_attributes":{"pace":92,"dribbling":90,"crossing":87,"stamina":86}},
+    {"name":"David Beckham","nationality":"England","positions":["RM"],"rating":87,"hidden_attributes":{"passing":92,"crossing":94,"vision":90,"stamina":85}},
+
+    {"name":"Eric Cantona","nationality":"France","positions":["CF","ST"],"rating":94,"hidden_attributes":{"technique":96,"vision":95,"finishing":93,"temperament":83}},
+    {"name":"Andy Cole","nationality":"England","positions":["ST"],"rating":88,"hidden_attributes":{"finishing":90,"movement":88,"pace":87,"composure":85}},
+    {"name":"Mark Hughes","nationality":"Wales","positions":["ST"],"rating":86,"hidden_attributes":{"finishing":87,"strength":87,"movement":84,"composure":85}},
+    {"name":"Brian McClair","nationality":"Scotland","positions":["ST","CM"],"rating":83,"hidden_attributes":{"finishing":84,"passing":82,"movement":83,"composure":84}},
+    {"name":"David May","nationality":"England","positions":["CB"],"rating":81,"hidden_attributes":{"defending":83,"strength":84,"positioning":81,"aerial":83}}
+  ]
+},
+
+{
+  "season": "1995/96",
+  "manager": {
+    "name": "Sir Alex Ferguson",
+    "nationality": "Scotland",
+    "rating": 93,
+    "hidden_attributes": {
+      "tactical": 91,
+      "man_management": 96,
+      "adaptability": 90
+    }
+  },
+  "players": [
+    {"name":"Peter Schmeichel","nationality":"Denmark","positions":["GK"],"rating":93,"hidden_attributes":{"reflexes":95,"command":96,"distribution":75,"aerial":91}},
+    {"name":"Gary Neville","nationality":"England","positions":["RB"],"rating":84,"hidden_attributes":{"defending":85,"stamina":86,"passing":75,"leadership":82}},
+    {"name":"Steve Bruce","nationality":"England","positions":["CB"],"rating":84,"hidden_attributes":{"defending":86,"leadership":92,"strength":87,"positioning":84}},
+    {"name":"Gary Pallister","nationality":"England","positions":["CB"],"rating":86,"hidden_attributes":{"defending":88,"strength":90,"aerial":88,"composure":85}},
+    {"name":"Denis Irwin","nationality":"Ireland","positions":["LB","RB"],"rating":87,"hidden_attributes":{"passing":87,"defending":86,"crossing":88,"stamina":88}},
+
+    {"name":"Roy Keane","nationality":"Ireland","positions":["CM"],"rating":91,"hidden_attributes":{"tackling":93,"aggression":95,"passing":87,"leadership":94}},
+    {"name":"Paul Scholes","nationality":"England","positions":["CM"],"rating":88,"hidden_attributes":{"passing":92,"shooting":88,"vision":91,"composure":90}},
+    {"name":"Ryan Giggs","nationality":"Wales","positions":["LM","LW"],"rating":89,"hidden_attributes":{"pace":92,"dribbling":90,"crossing":87,"stamina":86}},
+    {"name":"David Beckham","nationality":"England","positions":["RM"],"rating":87,"hidden_attributes":{"passing":92,"crossing":94,"vision":90,"stamina":85}},
+
+    {"name":"Eric Cantona","nationality":"France","positions":["CF","ST"],"rating":94,"hidden_attributes":{"technique":96,"vision":95,"finishing":93,"temperament":83}},
+    {"name":"Andy Cole","nationality":"England","positions":["ST"],"rating":88,"hidden_attributes":{"finishing":90,"movement":88,"pace":87,"composure":85}},
+    {"name":"Mark Hughes","nationality":"Wales","positions":["ST"],"rating":86,"hidden_attributes":{"finishing":87,"strength":87,"movement":84,"composure":85}},
+    {"name":"Brian McClair","nationality":"Scotland","positions":["ST","CM"],"rating":83,"hidden_attributes":{"finishing":84,"passing":82,"movement":83,"composure":84}},
+    {"name":"David May","nationality":"England","positions":["CB"],"rating":81,"hidden_attributes":{"defending":83,"strength":84,"positioning":81,"aerial":83}}
+  ]
+},
+
+{
+  "season": "1996/97",
+  "manager": {
+    "name": "Sir Alex Ferguson",
+    "nationality": "Scotland",
+    "rating": 94,
+    "hidden_attributes": {
+      "tactical": 92,
+      "man_management": 97,
+      "adaptability": 91
+    }
+  },
+  "players": [
+    {"name":"Peter Schmeichel","nationality":"Denmark","positions":["GK"],"rating":93,"hidden_attributes":{"reflexes":95,"command":96,"distribution":76,"aerial":91}},
+
+    {"name":"Gary Neville","nationality":"England","positions":["RB"],"rating":85,"hidden_attributes":{"defending":86,"stamina":87,"passing":76,"leadership":84}},
+    {"name":"Denis Irwin","nationality":"Ireland","positions":["LB","RB"],"rating":87,"hidden_attributes":{"passing":87,"defending":86,"crossing":88,"stamina":88}},
+    {"name":"Gary Pallister","nationality":"England","positions":["CB"],"rating":86,"hidden_attributes":{"defending":88,"strength":90,"aerial":88,"composure":85}},
+    {"name":"Ronny Johnsen","nationality":"Norway","positions":["CB"],"rating":84,"hidden_attributes":{"defending":86,"pace":80,"positioning":85,"composure":84}},
+
+    {"name":"Roy Keane","nationality":"Ireland","positions":["CM"],"rating":92,"hidden_attributes":{"tackling":94,"aggression":96,"passing":88,"leadership":95}},
+    {"name":"Paul Scholes","nationality":"England","positions":["CM"],"rating":89,"hidden_attributes":{"passing":93,"shooting":89,"vision":92,"composure":91}},
+    {"name":"David Beckham","nationality":"England","positions":["RM"],"rating":88,"hidden_attributes":{"passing":94,"crossing":95,"vision":91,"stamina":86}},
+    {"name":"Ryan Giggs","nationality":"Wales","positions":["LM","LW"],"rating":90,"hidden_attributes":{"pace":93,"dribbling":91,"crossing":88,"stamina":87}},
+
+    {"name":"Eric Cantona","nationality":"France","positions":["CF","ST"],"rating":93,"hidden_attributes":{"technique":95,"vision":94,"finishing":92,"temperament":82}},
+    {"name":"Andy Cole","nationality":"England","positions":["ST"],"rating":89,"hidden_attributes":{"finishing":91,"movement":89,"pace":88,"composure":86}},
+    {"name":"Ole Gunnar Solskjær","nationality":"Norway","positions":["ST"],"rating":88,"hidden_attributes":{"finishing":90,"movement":92,"composure":90,"pace":84}},
+    {"name":"Dwight Yorke","nationality":"Trinidad and Tobago","positions":["ST"],"rating":87,"hidden_attributes":{"finishing":89,"strength":86,"movement":88,"composure":87}},
+
+    {"name":"Nicky Butt","nationality":"England","positions":["CM","CDM"],"rating":84,"hidden_attributes":{"defending":85,"stamina":87,"passing":80,"tackling":86}},
+    {"name":"Phil Neville","nationality":"England","positions":["LB","CM"],"rating":83,"hidden_attributes":{"defending":84,"stamina":86,"versatility":88,"passing":78}}
+  ]
+},
+
+{
+  "season": "1998/99",
+  "manager": {
+    "name": "Sir Alex Ferguson",
+    "nationality": "Scotland",
+    "rating": 96,
+    "hidden_attributes": {
+      "tactical": 95,
+      "man_management": 99,
+      "adaptability": 95
+    }
+  },
+  "players": [
+    {"name":"Peter Schmeichel","nationality":"Denmark","positions":["GK"],"rating":94,"hidden_attributes":{"reflexes":96,"command":97,"distribution":78,"aerial":92}},
+    {"name":"Gary Neville","nationality":"England","positions":["RB"],"rating":87,"hidden_attributes":{"defending":88,"stamina":89,"passing":78,"leadership":86}},
+    {"name":"Denis Irwin","nationality":"Ireland","positions":["LB","RB"],"rating":88,"hidden_attributes":{"passing":89,"defending":87,"crossing":90,"stamina":89}},
+    {"name":"Jaap Stam","nationality":"Netherlands","positions":["CB"],"rating":92,"hidden_attributes":{"defending":96,"strength":97,"pace":86,"aerial":95}},
+    {"name":"Ronny Johnsen","nationality":"Norway","positions":["CB"],"rating":86,"hidden_attributes":{"defending":88,"positioning":87,"pace":82,"composure":86}},
+
+    {"name":"David Beckham","nationality":"England","positions":["RM"],"rating":91,"hidden_attributes":{"passing":97,"crossing":98,"vision":94,"stamina":88}},
+    {"name":"Roy Keane","nationality":"Ireland","positions":["CM"],"rating":95,"hidden_attributes":{"tackling":96,"aggression":98,"passing":90,"leadership":99}},
+    {"name":"Paul Scholes","nationality":"England","positions":["CM"],"rating":92,"hidden_attributes":{"passing":96,"shooting":91,"vision":95,"composure":93}},
+    {"name":"Ryan Giggs","nationality":"Wales","positions":["LM","LW"],"rating":91,"hidden_attributes":{"pace":94,"dribbling":93,"crossing":90,"stamina":89}},
+
+    {"name":"Dwight Yorke","nationality":"Trinidad and Tobago","positions":["ST"],"rating":92,"hidden_attributes":{"finishing":94,"movement":93,"composure":90,"pace":88}},
+    {"name":"Andy Cole","nationality":"England","positions":["ST"],"rating":91,"hidden_attributes":{"finishing":93,"movement":92,"pace":89,"composure":88}},
+    {"name":"Ole Gunnar Solskjær","nationality":"Norway","positions":["ST"],"rating":90,"hidden_attributes":{"finishing":92,"movement":94,"composure":92,"pace":86}},
+
+    {"name":"Nicky Butt","nationality":"England","positions":["CM","CDM"],"rating":86,"hidden_attributes":{"tackling":87,"stamina":89,"passing":82,"defending":86}},
+    {"name":"Phil Neville","nationality":"England","positions":["LB","CM"],"rating":85,"hidden_attributes":{"versatility":90,"stamina":88,"defending":86,"passing":80}},
+
+    {"name":"Teddy Sheringham","nationality":"England","positions":["ST","CF"],"rating":90,"hidden_attributes":{"finishing":91,"vision":90,"composure":92,"passing":88}}
+  ]
+},
+
+{
+  "season": "1999/00",
+  "manager": {
+    "name": "Sir Alex Ferguson",
+    "nationality": "Scotland",
+    "rating": 95,
+    "hidden_attributes": {
+      "tactical": 94,
+      "man_management": 98,
+      "adaptability": 94
+    }
+  },
+  "players": [
+    {"name":"Fabien Barthez","nationality":"France","positions":["GK"],"rating":90,"hidden_attributes":{"reflexes":91,"command":89,"distribution":85,"agility":92}},
+
+    {"name":"Gary Neville","nationality":"England","positions":["RB"],"rating":87,"hidden_attributes":{"defending":88,"stamina":89,"passing":78,"leadership":86}},
+    {"name":"Denis Irwin","nationality":"Ireland","positions":["LB","RB"],"rating":88,"hidden_attributes":{"passing":89,"defending":87,"crossing":90,"stamina":89}},
+    {"name":"Jaap Stam","nationality":"Netherlands","positions":["CB"],"rating":92,"hidden_attributes":{"defending":96,"strength":97,"pace":86,"aerial":95}},
+    {"name":"Henning Berg","nationality":"Norway","positions":["CB"],"rating":85,"hidden_attributes":{"defending":88,"positioning":86,"strength":87,"composure":85}},
+
+    {"name":"David Beckham","nationality":"England","positions":["RM"],"rating":92,"hidden_attributes":{"passing":97,"crossing":98,"vision":95,"stamina":89}},
+    {"name":"Roy Keane","nationality":"Ireland","positions":["CM"],"rating":94,"hidden_attributes":{"tackling":95,"aggression":97,"passing":90,"leadership":98}},
+    {"name":"Paul Scholes","nationality":"England","positions":["CM"],"rating":91,"hidden_attributes":{"passing":95,"shooting":90,"vision":94,"composure":92}},
+    {"name":"Ryan Giggs","nationality":"Wales","positions":["LM","LW"],"rating":90,"hidden_attributes":{"pace":93,"dribbling":92,"crossing":89,"stamina":88}},
+
+    {"name":"Andy Cole","nationality":"England","positions":["ST"],"rating":90,"hidden_attributes":{"finishing":92,"movement":91,"pace":88,"composure":87}},
+    {"name":"Dwight Yorke","nationality":"Trinidad and Tobago","positions":["ST"],"rating":91,"hidden_attributes":{"finishing":93,"movement":92,"composure":89,"pace":87}},
+    {"name":"Ole Gunnar Solskjær","nationality":"Norway","positions":["ST"],"rating":90,"hidden_attributes":{"finishing":92,"movement":94,"composure":92,"pace":86}},
+
+    {"name":"Nicky Butt","nationality":"England","positions":["CM","CDM"],"rating":85,"hidden_attributes":{"tackling":86,"stamina":88,"passing":82,"defending":85}},
+    {"name":"Teddy Sheringham","nationality":"England","positions":["ST","CF"],"rating":89,"hidden_attributes":{"finishing":90,"vision":91,"composure":92,"passing":88}},
+
+    {"name":"Quinton Fortune","nationality":"South Africa","positions":["LM","LB"],"rating":82,"hidden_attributes":{"pace":85,"stamina":86,"dribbling":83,"defending":82}}
+  ]
+},
+
+{
+  "season": "2000/01",
+  "manager": {
+    "name": "Sir Alex Ferguson",
+    "nationality": "Scotland",
+    "rating": 95,
+    "hidden_attributes": {
+      "tactical": 94,
+      "man_management": 98,
+      "adaptability": 94
+    }
+  },
+  "players": [
+    {"name":"Fabien Barthez","nationality":"France","positions":["GK"],"rating":91,"hidden_attributes":{"reflexes":92,"command":90,"distribution":86,"agility":93}},
+    {"name":"Raimond van der Gouw","nationality":"Netherlands","positions":["GK"],"rating":79,"hidden_attributes":{"reflexes":80,"command":80,"distribution":72,"aerial":81}},
+
+    {"name":"Gary Neville","nationality":"England","positions":["RB"],"rating":88,"hidden_attributes":{"defending":89,"stamina":90,"passing":79,"leadership":87}},
+    {"name":"Denis Irwin","nationality":"Ireland","positions":["LB","RB"],"rating":88,"hidden_attributes":{"passing":89,"defending":88,"crossing":90,"stamina":89}},
+    {"name":"Jaap Stam","nationality":"Netherlands","positions":["CB"],"rating":93,"hidden_attributes":{"defending":97,"strength":98,"pace":87,"aerial":95}},
+    {"name":"Ronny Johnsen","nationality":"Norway","positions":["CB"],"rating":86,"hidden_attributes":{"defending":88,"positioning":87,"pace":82,"composure":87}},
+
+    {"name":"Roy Keane","nationality":"Ireland","positions":["CM"],"rating":96,"hidden_attributes":{"tackling":97,"aggression":99,"passing":91,"leadership":99}},
+    {"name":"Paul Scholes","nationality":"England","positions":["CM"],"rating":92,"hidden_attributes":{"passing":96,"shooting":92,"vision":95,"composure":94}},
+    {"name":"David Beckham","nationality":"England","positions":["RM"],"rating":93,"hidden_attributes":{"passing":98,"crossing":99,"vision":96,"stamina":90}},
+    {"name":"Ryan Giggs","nationality":"Wales","positions":["LM","LW"],"rating":91,"hidden_attributes":{"pace":94,"dribbling":93,"crossing":90,"stamina":89}},
+
+    {"name":"Dwight Yorke","nationality":"Trinidad and Tobago","positions":["ST"],"rating":90,"hidden_attributes":{"finishing":92,"movement":91,"composure":89,"pace":87}},
+    {"name":"Andy Cole","nationality":"England","positions":["ST"],"rating":90,"hidden_attributes":{"finishing":92,"movement":91,"pace":88,"composure":88}},
+    {"name":"Ole Gunnar Solskjaer","nationality":"Norway","positions":["ST"],"rating":90,"hidden_attributes":{"finishing":92,"movement":94,"composure":92,"pace":86}},
+    {"name":"Teddy Sheringham","nationality":"England","positions":["ST","CF"],"rating":89,"hidden_attributes":{"finishing":90,"vision":91,"composure":92,"passing":89}},
+    {"name":"Nicky Butt","nationality":"England","positions":["CM","CDM"],"rating":86,"hidden_attributes":{"tackling":87,"stamina":89,"passing":83,"defending":86}}
+  ]
+},
+
+{
+  "season": "2001/02",
+  "manager": {
+    "name": "Sir Alex Ferguson",
+    "nationality": "Scotland",
+    "rating": 92,
+    "hidden_attributes": {
+      "tactical": 92,
+      "man_management": 98,
+      "adaptability": 93
+    }
+  },
+  "players": [
+    {"name":"Fabien Barthez","nationality":"France","positions":["GK"],"rating":90,"hidden_attributes":{"reflexes":91,"command":89,"distribution":86,"agility":92}},
+    {"name":"Raimond van der Gouw","nationality":"Netherlands","positions":["GK"],"rating":78,"hidden_attributes":{"reflexes":79,"command":79,"distribution":72,"aerial":80}},
+
+    {"name":"Gary Neville","nationality":"England","positions":["RB"],"rating":88,"hidden_attributes":{"defending":89,"stamina":90,"passing":80,"leadership":88}},
+    {"name":"Mikael Silvestre","nationality":"France","positions":["CB","LB"],"rating":84,"hidden_attributes":{"defending":85,"pace":85,"strength":84,"positioning":83}},    {"name":"Denis Irwin","nationality":"Ireland","positions":["LB","RB"],"rating":87,"hidden_attributes":{"passing":88,"defending":87,"crossing":89,"stamina":88}},
+
+    {"name":"Roy Keane","nationality":"Ireland","positions":["CM"],"rating":95,"hidden_attributes":{"tackling":97,"aggression":99,"passing":91,"leadership":99}},
+    {"name":"Paul Scholes","nationality":"England","positions":["CM"],"rating":92,"hidden_attributes":{"passing":96,"shooting":92,"vision":95,"composure":94}},
+    {"name":"David Beckham","nationality":"England","positions":["RM"],"rating":93,"hidden_attributes":{"passing":98,"crossing":99,"vision":96,"stamina":90}},
+    {"name":"Ryan Giggs","nationality":"Wales","positions":["LM","LW"],"rating":91,"hidden_attributes":{"pace":94,"dribbling":93,"crossing":90,"stamina":89}},
+
+    {"name":"Ruud van Nistelrooy","nationality":"Netherlands","positions":["ST"],"rating":92,"hidden_attributes":{"finishing":96,"movement":93,"composure":94,"strength":88}},
+    {"name":"Ole Gunnar Solskjaer","nationality":"Norway","positions":["ST"],"rating":89,"hidden_attributes":{"finishing":91,"movement":93,"composure":92,"pace":85}},
+    {"name":"Diego Forlan","nationality":"Uruguay","positions":["ST"],"rating":82,"hidden_attributes":{"finishing":83,"movement":84,"pace":83,"workrate":88}},
+    {"name":"Nicky Butt","nationality":"England","positions":["CM","CDM"],"rating":86,"hidden_attributes":{"tackling":87,"stamina":89,"passing":83,"defending":86}},
+    {"name":"Juan Sebastian Veron","nationality":"Argentina","positions":["CM"],"rating":89,"hidden_attributes":{"passing":96,"vision":96,"shooting":87,"technique":95}}
+  ]
+},
+
+{
+  "season": "2002/03",
+  "manager": {
+    "name": "Sir Alex Ferguson",
+    "nationality": "Scotland",
+    "rating": 94,
+    "hidden_attributes": {
+      "tactical": 94,
+      "man_management": 98,
+      "adaptability": 95
+    }
+  },
+  "players": [
+    {
+      "name": "Fabien Barthez",
+      "nationality": "France",
+      "positions": ["GK"],
+      "rating": 89,
+      "hidden_attributes": {
+        "reflexes": 90,
+        "command": 88,
+        "distribution": 85,
+        "agility": 91
+      }
+    },
+    {
+      "name": "Roy Carroll",
+      "nationality": "Northern Ireland",
+      "positions": ["GK"],
+      "rating": 79,
+      "hidden_attributes": {
+        "reflexes": 81,
+        "command": 77,
+        "distribution": 73,
+        "agility": 80
+      }
+    },
+
+    {
+      "name": "Gary Neville",
+      "nationality": "England",
+      "positions": ["RB"],
+      "rating": 89,
+      "hidden_attributes": {
+        "defending": 90,
+        "stamina": 91,
+        "passing": 81,
+        "leadership": 89
+      }
+    },
+    {
+      "name": "Rio Ferdinand",
+      "nationality": "England",
+      "positions": ["CB"],
+      "rating": 91,
+      "hidden_attributes": {
+        "defending": 93,
+        "pace": 86,
+        "positioning": 91,
+        "composure": 93
+      }
+    },
+    {
+      "name": "Mikael Silvestre",
+      "nationality": "France",
+      "positions": ["CB", "LB"],
+      "rating": 85,
+      "hidden_attributes": {
+        "defending": 86,
+        "pace": 86,
+        "strength": 85,
+        "positioning": 84
+      }
+    },
+    {
+      "name": "John O'Shea",
+      "nationality": "Ireland",
+      "positions": ["LB", "CB"],
+      "rating": 83,
+      "hidden_attributes": {
+        "defending": 84,
+        "versatility": 90,
+        "stamina": 84,
+        "positioning": 83
+      }
+    },
+
+    {
+      "name": "Roy Keane",
+      "nationality": "Ireland",
+      "positions": ["CM"],
+      "rating": 94,
+      "hidden_attributes": {
+        "tackling": 96,
+        "aggression": 98,
+        "passing": 90,
+        "leadership": 99
+      }
+    },
+    {
+      "name": "Paul Scholes",
+      "nationality": "England",
+      "positions": ["CM"],
+      "rating": 93,
+      "hidden_attributes": {
+        "passing": 97,
+        "shooting": 93,
+        "vision": 96,
+        "composure": 95
+      }
+    },
+    {
+      "name": "David Beckham",
+      "nationality": "England",
+      "positions": ["RM"],
+      "rating": 92,
+      "hidden_attributes": {
+        "passing": 98,
+        "crossing": 99,
+        "vision": 96,
+        "stamina": 90
+      }
+    },
+    {
+      "name": "Ryan Giggs",
+      "nationality": "Wales",
+      "positions": ["LM", "LW"],
+      "rating": 91,
+      "hidden_attributes": {
+        "pace": 93,
+        "dribbling": 93,
+        "crossing": 90,
+        "stamina": 89
+      }
+    },
+    {
+      "name": "Juan Sebastian Veron",
+      "nationality": "Argentina",
+      "positions": ["CM"],
+      "rating": 89,
+      "hidden_attributes": {
+        "passing": 96,
+        "vision": 96,
+        "shooting": 87,
+        "technique": 95
+      }
+    },
+
+    {
+      "name": "Ruud van Nistelrooy",
+      "nationality": "Netherlands",
+      "positions": ["ST"],
+      "rating": 95,
+      "hidden_attributes": {
+        "finishing": 98,
+        "movement": 94,
+        "composure": 96,
+        "strength": 89
+      }
+    },
+    {
+      "name": "Ole Gunnar Solskjaer",
+      "nationality": "Norway",
+      "positions": ["ST", "RW"],
+      "rating": 89,
+      "hidden_attributes": {
+        "finishing": 91,
+        "movement": 94,
+        "composure": 93,
+        "pace": 85
+      }
+    },
+    {
+      "name": "Diego Forlan",
+      "nationality": "Uruguay",
+      "positions": ["ST"],
+      "rating": 84,
+      "hidden_attributes": {
+        "finishing": 85,
+        "movement": 86,
+        "pace": 84,
+        "workrate": 89
+      }
+    },
+    {
+      "name": "Wes Brown",
+      "nationality": "England",
+      "positions": ["CB", "RB"],
+      "rating": 84,
+      "hidden_attributes": {
+        "defending": 86,
+        "strength": 87,
+        "pace": 81,
+        "positioning": 84
+      }
+    },
+    {
+      "name": "Phil Neville",
+      "nationality": "England",
+      "positions": ["LB", "CM", "RB"],
+      "rating": 83,
+      "hidden_attributes": {
+        "defending": 84,
+        "versatility": 91,
+        "stamina": 87,
+        "passing": 80
+      }
+    }
+  ]
+},
+
+{
+  "season": "2002/03",
+  "manager": {
+    "name": "Sir Alex Ferguson",
+    "nationality": "Scotland",
+    "rating": 94,
+    "hidden_attributes": {
+      "tactical": 94,
+      "man_management": 98,
+      "adaptability": 95
+    }
+  },
+  "players": [
+    {
+      "name": "Fabien Barthez",
+      "nationality": "France",
+      "positions": ["GK"],
+      "rating": 89,
+      "hidden_attributes": {
+        "reflexes": 90,
+        "command": 88,
+        "distribution": 85,
+        "agility": 91
+      }
+    },
+    {
+      "name": "Roy Carroll",
+      "nationality": "Northern Ireland",
+      "positions": ["GK"],
+      "rating": 79,
+      "hidden_attributes": {
+        "reflexes": 81,
+        "command": 77,
+        "distribution": 73,
+        "agility": 80
+      }
+    },
+
+    {
+      "name": "Gary Neville",
+      "nationality": "England",
+      "positions": ["RB"],
+      "rating": 89,
+      "hidden_attributes": {
+        "defending": 90,
+        "stamina": 91,
+        "passing": 81,
+        "leadership": 89
+      }
+    },
+    {
+      "name": "Rio Ferdinand",
+      "nationality": "England",
+      "positions": ["CB"],
+      "rating": 91,
+      "hidden_attributes": {
+        "defending": 93,
+        "pace": 86,
+        "positioning": 91,
+        "composure": 93
+      }
+    },
+    {
+      "name": "Mikael Silvestre",
+      "nationality": "France",
+      "positions": ["CB", "LB"],
+      "rating": 85,
+      "hidden_attributes": {
+        "defending": 86,
+        "pace": 86,
+        "strength": 85,
+        "positioning": 84
+      }
+    },
+    {
+      "name": "John O'Shea",
+      "nationality": "Ireland",
+      "positions": ["LB", "CB"],
+      "rating": 83,
+      "hidden_attributes": {
+        "defending": 84,
+        "versatility": 90,
+        "stamina": 84,
+        "positioning": 83
+      }
+    },
+
+    {
+      "name": "Roy Keane",
+      "nationality": "Ireland",
+      "positions": ["CM"],
+      "rating": 94,
+      "hidden_attributes": {
+        "tackling": 96,
+        "aggression": 98,
+        "passing": 90,
+        "leadership": 99
+      }
+    },
+    {
+      "name": "Paul Scholes",
+      "nationality": "England",
+      "positions": ["CM"],
+      "rating": 93,
+      "hidden_attributes": {
+        "passing": 97,
+        "shooting": 93,
+        "vision": 96,
+        "composure": 95
+      }
+    },
+    {
+      "name": "David Beckham",
+      "nationality": "England",
+      "positions": ["RM"],
+      "rating": 92,
+      "hidden_attributes": {
+        "passing": 98,
+        "crossing": 99,
+        "vision": 96,
+        "stamina": 90
+      }
+    },
+    {
+      "name": "Ryan Giggs",
+      "nationality": "Wales",
+      "positions": ["LM", "LW"],
+      "rating": 91,
+      "hidden_attributes": {
+        "pace": 93,
+        "dribbling": 93,
+        "crossing": 90,
+        "stamina": 89
+      }
+    },
+    {
+      "name": "Juan Sebastian Veron",
+      "nationality": "Argentina",
+      "positions": ["CM"],
+      "rating": 89,
+      "hidden_attributes": {
+        "passing": 96,
+        "vision": 96,
+        "shooting": 87,
+        "technique": 95
+      }
+    },
+
+    {
+      "name": "Ruud van Nistelrooy",
+      "nationality": "Netherlands",
+      "positions": ["ST"],
+      "rating": 95,
+      "hidden_attributes": {
+        "finishing": 98,
+        "movement": 94,
+        "composure": 96,
+        "strength": 89
+      }
+    },
+    {
+      "name": "Ole Gunnar Solskjaer",
+      "nationality": "Norway",
+      "positions": ["ST", "RW"],
+      "rating": 89,
+      "hidden_attributes": {
+        "finishing": 91,
+        "movement": 94,
+        "composure": 93,
+        "pace": 85
+      }
+    },
+    {
+      "name": "Diego Forlan",
+      "nationality": "Uruguay",
+      "positions": ["ST"],
+      "rating": 84,
+      "hidden_attributes": {
+        "finishing": 85,
+        "movement": 86,
+        "pace": 84,
+        "workrate": 89
+      }
+    },
+    {
+      "name": "Wes Brown",
+      "nationality": "England",
+      "positions": ["CB", "RB"],
+      "rating": 84,
+      "hidden_attributes": {
+        "defending": 86,
+        "strength": 87,
+        "pace": 81,
+        "positioning": 84
+      }
+    },
+    {
+      "name": "Phil Neville",
+      "nationality": "England",
+      "positions": ["LB", "CM", "RB"],
+      "rating": 83,
+      "hidden_attributes": {
+        "defending": 84,
+        "versatility": 91,
+        "stamina": 87,
+        "passing": 80
+      }
+    }
+  ]
+},
+
+{
+  "season": "2004/05",
+  "manager": {
+    "name": "Sir Alex Ferguson",
+    "nationality": "Scotland",
+    "rating": 90,
+    "hidden_attributes": {
+      "tactical": 90,
+      "man_management": 97,
+      "adaptability": 94
+    }
+  },
+  "players": [
+    {
+      "name": "Roy Carroll",
+      "nationality": "Northern Ireland",
+      "positions": ["GK"],
+      "rating": 80,
+      "hidden_attributes": {
+        "reflexes": 82,
+        "command": 78,
+        "distribution": 74,
+        "agility": 81
+      }
+    },
+    {
+      "name": "Tim Howard",
+      "nationality": "United States",
+      "positions": ["GK"],
+      "rating": 83,
+      "hidden_attributes": {
+        "reflexes": 86,
+        "command": 82,
+        "distribution": 78,
+        "agility": 86
+      }
+    },
+
+    {
+      "name": "Gary Neville",
+      "nationality": "England",
+      "positions": ["RB"],
+      "rating": 90,
+      "hidden_attributes": {
+        "defending": 91,
+        "stamina": 92,
+        "passing": 83,
+        "leadership": 90
+      }
+    },
+    {
+      "name": "Rio Ferdinand",
+      "nationality": "England",
+      "positions": ["CB"],
+      "rating": 93,
+      "hidden_attributes": {
+        "defending": 95,
+        "pace": 88,
+        "positioning": 93,
+        "composure": 95
+      }
+    },
+    {
+      "name": "Mikael Silvestre",
+      "nationality": "France",
+      "positions": ["CB", "LB"],
+      "rating": 85,
+      "hidden_attributes": {
+        "defending": 86,
+        "pace": 86,
+        "strength": 85,
+        "positioning": 84
+      }
+    },
+    {
+      "name": "John O'Shea",
+      "nationality": "Ireland",
+      "positions": ["LB", "CB", "RB"],
+      "rating": 84,
+      "hidden_attributes": {
+        "defending": 85,
+        "versatility": 92,
+        "stamina": 86,
+        "positioning": 84
+      }
+    },
+
+    {
+      "name": "Roy Keane",
+      "nationality": "Ireland",
+      "positions": ["CM"],
+      "rating": 92,
+      "hidden_attributes": {
+        "tackling": 95,
+        "aggression": 97,
+        "passing": 89,
+        "leadership": 98
+      }
+    },
+    {
+      "name": "Paul Scholes",
+      "nationality": "England",
+      "positions": ["CM"],
+      "rating": 93,
+      "hidden_attributes": {
+        "passing": 97,
+        "shooting": 92,
+        "vision": 96,
+        "composure": 95
+      }
+    },
+    {
+      "name": "Ryan Giggs",
+      "nationality": "Wales",
+      "positions": ["LM", "LW"],
+      "rating": 90,
+      "hidden_attributes": {
+        "pace": 91,
+        "dribbling": 92,
+        "crossing": 89,
+        "stamina": 88
+      }
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "nationality": "Portugal",
+      "positions": ["RW", "LW"],
+      "rating": 86,
+      "hidden_attributes": {
+        "pace": 92,
+        "dribbling": 93,
+        "crossing": 82,
+        "shooting": 82
+      }
+    },
+
+    {
+      "name": "Wayne Rooney",
+      "nationality": "England",
+      "positions": ["ST", "CF"],
+      "rating": 88,
+      "hidden_attributes": {
+        "finishing": 90,
+        "strength": 88,
+        "aggression": 92,
+        "composure": 86
+      }
+    },
+    {
+      "name": "Ruud van Nistelrooy",
+      "nationality": "Netherlands",
+      "positions": ["ST"],
+      "rating": 94,
+      "hidden_attributes": {
+        "finishing": 97,
+        "movement": 93,
+        "composure": 95,
+        "strength": 90
+      }
+    },
+    {
+      "name": "Ole Gunnar Solskjaer",
+      "nationality": "Norway",
+      "positions": ["ST", "RW"],
+      "rating": 88,
+      "hidden_attributes": {
+        "finishing": 90,
+        "movement": 93,
+        "composure": 92,
+        "pace": 84
+      }
+    },
+    {
+      "name": "Alan Smith",
+      "nationality": "England",
+      "positions": ["ST", "CM"],
+      "rating": 86,
+      "hidden_attributes": {
+        "workrate": 94,
+        "aggression": 93,
+        "finishing": 85,
+        "tackling": 87
+      }
+    },
+    {
+      "name": "Nicky Butt",
+      "nationality": "England",
+      "positions": ["CM", "CDM"],
+      "rating": 85,
+      "hidden_attributes": {
+        "tackling": 87,
+        "stamina": 89,
+        "passing": 83,
+        "defending": 86
+      }
+    }
+  ]
+},
+
+{
+  "season": "2005/06",
+  "manager": {
+    "name": "Sir Alex Ferguson",
+    "nationality": "Scotland",
+    "rating": 91,
+    "hidden_attributes": {
+      "tactical": 91,
+      "man_management": 98,
+      "adaptability": 95
+    }
+  },
+  "players": [
+    {
+      "name": "Edwin van der Sar",
+      "nationality": "Netherlands",
+      "positions": ["GK"],
+      "rating": 90,
+      "hidden_attributes": {
+        "reflexes": 91,
+        "command": 93,
+        "distribution": 88,
+        "composure": 92
+      }
+    },
+    {
+      "name": "Roy Carroll",
+      "nationality": "Northern Ireland",
+      "positions": ["GK"],
+      "rating": 79,
+      "hidden_attributes": {
+        "reflexes": 81,
+        "command": 78,
+        "distribution": 73,
+        "agility": 80
+      }
+    },
+
+    {
+      "name": "Gary Neville",
+      "nationality": "England",
+      "positions": ["RB"],
+      "rating": 90,
+      "hidden_attributes": {
+        "defending": 91,
+        "stamina": 92,
+        "passing": 84,
+        "leadership": 91
+      }
+    },
+    {
+      "name": "Rio Ferdinand",
+      "nationality": "England",
+      "positions": ["CB"],
+      "rating": 93,
+      "hidden_attributes": {
+        "defending": 95,
+        "pace": 88,
+        "positioning": 93,
+        "composure": 95
+      }
+    },
+    {
+      "name": "Nemanja Vidić",
+      "nationality": "Serbia",
+      "positions": ["CB"],
+      "rating": 89,
+      "hidden_attributes": {
+        "defending": 93,
+        "strength": 95,
+        "aerial": 92,
+        "aggression": 94
+      }
+    },
+    {
+      "name": "Mikael Silvestre",
+      "nationality": "France",
+      "positions": ["CB", "LB"],
+      "rating": 84,
+      "hidden_attributes": {
+        "defending": 85,
+        "pace": 86,
+        "strength": 84,
+        "positioning": 83
+      }
+    },
+    {
+      "name": "John O'Shea",
+      "nationality": "Ireland",
+      "positions": ["LB", "CB", "RB"],
+      "rating": 84,
+      "hidden_attributes": {
+        "defending": 85,
+        "versatility": 92,
+        "stamina": 86,
+        "positioning": 84
+      }
+    },
+
+    {
+      "name": "Roy Keane",
+      "nationality": "Ireland",
+      "positions": ["CM"],
+      "rating": 92,
+      "hidden_attributes": {
+        "tackling": 95,
+        "aggression": 97,
+        "passing": 89,
+        "leadership": 98
+      }
+    },
+    {
+      "name": "Paul Scholes",
+      "nationality": "England",
+      "positions": ["CM"],
+      "rating": 92,
+      "hidden_attributes": {
+        "passing": 96,
+        "shooting": 92,
+        "vision": 96,
+        "composure": 95
+      }
+    },
+    {
+      "name": "Michael Carrick",
+      "nationality": "England",
+      "positions": ["CM"],
+      "rating": 86,
+      "hidden_attributes": {
+        "passing": 92,
+        "vision": 90,
+        "composure": 89,
+        "positioning": 88
+      }
+    },
+    {
+      "name": "Ryan Giggs",
+      "nationality": "Wales",
+      "positions": ["LM", "LW"],
+      "rating": 90,
+      "hidden_attributes": {
+        "pace": 91,
+        "dribbling": 92,
+        "crossing": 89,
+        "stamina": 88
+      }
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "nationality": "Portugal",
+      "positions": ["RW", "LW"],
+      "rating": 88,
+      "hidden_attributes": {
+        "pace": 94,
+        "dribbling": 94,
+        "crossing": 83,
+        "shooting": 85
+      }
+    },
+
+    {
+      "name": "Wayne Rooney",
+      "nationality": "England",
+      "positions": ["ST", "CF"],
+      "rating": 90,
+      "hidden_attributes": {
+        "finishing": 92,
+        "strength": 90,
+        "aggression": 94,
+        "composure": 88
+      }
+    },
+    {
+      "name": "Ruud van Nistelrooy",
+      "nationality": "Netherlands",
+      "positions": ["ST"],
+      "rating": 93,
+      "hidden_attributes": {
+        "finishing": 96,
+        "movement": 92,
+        "composure": 95,
+        "strength": 90
+      }
+    },
+    {
+      "name": "Louis Saha",
+      "nationality": "France",
+      "positions": ["ST"],
+      "rating": 87,
+      "hidden_attributes": {
+        "pace": 91,
+        "finishing": 88,
+        "movement": 90,
+        "composure": 86
+      }
+    },
+    {
+      "name": "Alan Smith",
+      "nationality": "England",
+      "positions": ["ST", "CM"],
+      "rating": 85,
+      "hidden_attributes": {
+        "workrate": 94,
+        "aggression": 93,
+        "finishing": 84,
+        "tackling": 87
+      }
+    },
+    {
+      "name": "Ole Gunnar Solskjaer",
+      "nationality": "Norway",
+      "positions": ["ST", "RW"],
+      "rating": 87,
+      "hidden_attributes": {
+        "finishing": 89,
+        "movement": 92,
+        "composure": 91,
+        "pace": 83
+      }
+    }
+  ]
+},
+
+{
+  "season": "2006/07",
+  "manager": {
+    "name": "Sir Alex Ferguson",
+    "nationality": "Scotland",
+    "rating": 92,
+    "hidden_attributes": {
+      "tactical": 92,
+      "man_management": 98,
+      "adaptability": 96
+    }
+  },
+  "players": [
+    {
+      "name": "Edwin van der Sar",
+      "nationality": "Netherlands",
+      "positions": ["GK"],
+      "rating": 91,
+      "hidden_attributes": {
+        "reflexes": 92,
+        "command": 94,
+        "distribution": 89,
+        "composure": 93
+      }
+    },
+    {
+      "name": "Ben Foster",
+      "nationality": "England",
+      "positions": ["GK"],
+      "rating": 80,
+      "hidden_attributes": {
+        "reflexes": 83,
+        "command": 79,
+        "distribution": 75,
+        "agility": 82
+      }
+    },
+
+    {
+      "name": "Gary Neville",
+      "nationality": "England",
+      "positions": ["RB"],
+      "rating": 89,
+      "hidden_attributes": {
+        "defending": 90,
+        "stamina": 91,
+        "passing": 83,
+        "leadership": 92
+      }
+    },
+    {
+      "name": "Rio Ferdinand",
+      "nationality": "England",
+      "positions": ["CB"],
+      "rating": 93,
+      "hidden_attributes": {
+        "defending": 95,
+        "pace": 88,
+        "positioning": 94,
+        "composure": 96
+      }
+    },
+    {
+      "name": "Nemanja Vidić",
+      "nationality": "Serbia",
+      "positions": ["CB"],
+      "rating": 91,
+      "hidden_attributes": {
+        "defending": 95,
+        "strength": 96,
+        "aerial": 93,
+        "aggression": 95
+      }
+    },
+    {
+      "name": "Patrice Evra",
+      "nationality": "France",
+      "positions": ["LB"],
+      "rating": 86,
+      "hidden_attributes": {
+        "pace": 88,
+        "defending": 87,
+        "stamina": 90,
+        "crossing": 82
+      }
+    },
+
+    {
+      "name": "Michael Carrick",
+      "nationality": "England",
+      "positions": ["CM"],
+      "rating": 88,
+      "hidden_attributes": {
+        "passing": 93,
+        "vision": 92,
+        "composure": 90,
+        "positioning": 89
+      }
+    },
+    {
+      "name": "Paul Scholes",
+      "nationality": "England",
+      "positions": ["CM"],
+      "rating": 91,
+      "hidden_attributes": {
+        "passing": 95,
+        "shooting": 91,
+        "vision": 95,
+        "composure": 94
+      }
+    },
+    {
+      "name": "Ryan Giggs",
+      "nationality": "Wales",
+      "positions": ["LM", "LW"],
+      "rating": 89,
+      "hidden_attributes": {
+        "pace": 90,
+        "dribbling": 91,
+        "crossing": 88,
+        "stamina": 87
+      }
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "nationality": "Portugal",
+      "positions": ["RW", "LW"],
+      "rating": 92,
+      "hidden_attributes": {
+        "pace": 95,
+        "dribbling": 95,
+        "shooting": 90,
+        "crossing": 85
+      }
+    },
+
+    {
+      "name": "Wayne Rooney",
+      "nationality": "England",
+      "positions": ["ST", "CF"],
+      "rating": 91,
+      "hidden_attributes": {
+        "finishing": 93,
+        "strength": 91,
+        "aggression": 95,
+        "composure": 89
+      }
+    },
+    {
+      "name": "Carlos Tevez",
+      "nationality": "Argentina",
+      "positions": ["ST", "CF"],
+      "rating": 89,
+      "hidden_attributes": {
+        "workrate": 96,
+        "finishing": 90,
+        "aggression": 94,
+        "movement": 92
+      }
+    },
+    {
+      "name": "Louis Saha",
+      "nationality": "France",
+      "positions": ["ST"],
+      "rating": 86,
+      "hidden_attributes": {
+        "pace": 90,
+        "finishing": 87,
+        "movement": 89,
+        "composure": 85
+      }
+    },
+    {
+      "name": "Ole Gunnar Solskjaer",
+      "nationality": "Norway",
+      "positions": ["ST", "RW"],
+      "rating": 86,
+      "hidden_attributes": {
+        "finishing": 88,
+        "movement": 91,
+        "composure": 91,
+        "pace": 82
+      }
+    },
+    {
+      "name": "John O'Shea",
+      "nationality": "Ireland",
+      "positions": ["CB", "RB", "LB"],
+      "rating": 85,
+      "hidden_attributes": {
+        "defending": 86,
+        "versatility": 93,
+        "stamina": 87,
+        "positioning": 85
+      }
+    }
+  ]
+},
+
+{
+  "season": "2007/08",
+  "manager": {
+    "name": "Sir Alex Ferguson",
+    "nationality": "Scotland",
+    "rating": 93,
+    "hidden_attributes": {
+      "tactical": 93,
+      "man_management": 99,
+      "adaptability": 97
+    }
+  },
+  "players": [
+    {
+      "name": "Edwin van der Sar",
+      "nationality": "Netherlands",
+      "positions": ["GK"],
+      "rating": 92,
+      "hidden_attributes": {
+        "reflexes": 93,
+        "command": 95,
+        "distribution": 90,
+        "composure": 94
+      }
+    },
+    {
+      "name": "Ben Foster",
+      "nationality": "England",
+      "positions": ["GK"],
+      "rating": 81,
+      "hidden_attributes": {
+        "reflexes": 84,
+        "command": 80,
+        "distribution": 76,
+        "agility": 83
+      }
+    },
+
+    {
+      "name": "Gary Neville",
+      "nationality": "England",
+      "positions": ["RB"],
+      "rating": 88,
+      "hidden_attributes": {
+        "defending": 89,
+        "stamina": 90,
+        "passing": 82,
+        "leadership": 91
+      }
+    },
+    {
+      "name": "Rio Ferdinand",
+      "nationality": "England",
+      "positions": ["CB"],
+      "rating": 94,
+      "hidden_attributes": {
+        "defending": 96,
+        "pace": 89,
+        "positioning": 95,
+        "composure": 97
+      }
+    },
+    {
+      "name": "Nemanja Vidić",
+      "nationality": "Serbia",
+      "positions": ["CB"],
+      "rating": 93,
+      "hidden_attributes": {
+        "defending": 96,
+        "strength": 97,
+        "aerial": 94,
+        "aggression": 96
+      }
+    },
+    {
+      "name": "Patrice Evra",
+      "nationality": "France",
+      "positions": ["LB"],
+      "rating": 88,
+      "hidden_attributes": {
+        "pace": 89,
+        "defending": 88,
+        "stamina": 91,
+        "crossing": 84
+      }
+    },
+
+    {
+      "name": "Michael Carrick",
+      "nationality": "England",
+      "positions": ["CM"],
+      "rating": 89,
+      "hidden_attributes": {
+        "passing": 94,
+        "vision": 93,
+        "composure": 91,
+        "positioning": 90
+      }
+    },
+    {
+      "name": "Paul Scholes",
+      "nationality": "England",
+      "positions": ["CM"],
+      "rating": 90,
+      "hidden_attributes": {
+        "passing": 94,
+        "shooting": 90,
+        "vision": 94,
+        "composure": 93
+      }
+    },
+    {
+      "name": "Ryan Giggs",
+      "nationality": "Wales",
+      "positions": ["LM", "LW"],
+      "rating": 88,
+      "hidden_attributes": {
+        "pace": 89,
+        "dribbling": 90,
+        "crossing": 87,
+        "stamina": 86
+      }
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "nationality": "Portugal",
+      "positions": ["RW", "LW"],
+      "rating": 96,
+      "hidden_attributes": {
+        "pace": 96,
+        "dribbling": 96,
+        "shooting": 95,
+        "heading": 90
+      }
+    },
+
+    {
+      "name": "Wayne Rooney",
+      "nationality": "England",
+      "positions": ["ST", "CF"],
+      "rating": 93,
+      "hidden_attributes": {
+        "finishing": 94,
+        "strength": 92,
+        "aggression": 96,
+        "composure": 90
+      }
+    },
+    {
+      "name": "Carlos Tevez",
+      "nationality": "Argentina",
+      "positions": ["ST", "CF"],
+      "rating": 90,
+      "hidden_attributes": {
+        "workrate": 97,
+        "finishing": 91,
+        "aggression": 95,
+        "movement": 93
+      }
+    },
+    {
+      "name": "Louis Saha",
+      "nationality": "France",
+      "positions": ["ST"],
+      "rating": 85,
+      "hidden_attributes": {
+        "pace": 89,
+        "finishing": 86,
+        "movement": 88,
+        "composure": 84
+      }
+    },
+    {
+      "name": "Anderson",
+      "nationality": "Brazil",
+      "positions": ["CM"],
+      "rating": 84,
+      "hidden_attributes": {
+        "dribbling": 88,
+        "passing": 85,
+        "agility": 90,
+        "vision": 83
+      }
+    },
+    {
+      "name": "Nani",
+      "nationality": "Portugal",
+      "positions": ["RW", "LW"],
+      "rating": 86,
+      "hidden_attributes": {
+        "pace": 91,
+        "dribbling": 90,
+        "shooting": 87,
+        "crossing": 86
+      }
+    }
+  ]
+},
+
+{
+  "season": "2008/09",
+  "manager": {
+    "name": "Sir Alex Ferguson",
+    "nationality": "Scotland",
+    "rating": 93,
+    "hidden_attributes": {
+      "tactical": 93,
+      "man_management": 99,
+      "adaptability": 97
+    }
+  },
+  "players": [
+    {
+      "name": "Edwin van der Sar",
+      "nationality": "Netherlands",
+      "positions": ["GK"],
+      "rating": 92,
+      "hidden_attributes": {
+        "reflexes": 93,
+        "command": 95,
+        "distribution": 90,
+        "composure": 94
+      }
+    },
+    {
+      "name": "Ben Foster",
+      "nationality": "England",
+      "positions": ["GK"],
+      "rating": 82,
+      "hidden_attributes": {
+        "reflexes": 85,
+        "command": 81,
+        "distribution": 77,
+        "agility": 84
+      }
+    },
+
+    {
+      "name": "Gary Neville",
+      "nationality": "England",
+      "positions": ["RB"],
+      "rating": 87,
+      "hidden_attributes": {
+        "defending": 88,
+        "stamina": 89,
+        "passing": 81,
+        "leadership": 91
+      }
+    },
+    {
+      "name": "Rio Ferdinand",
+      "nationality": "England",
+      "positions": ["CB"],
+      "rating": 93,
+      "hidden_attributes": {
+        "defending": 95,
+        "pace": 88,
+        "positioning": 94,
+        "composure": 96
+      }
+    },
+    {
+      "name": "Nemanja Vidić",
+      "nationality": "Serbia",
+      "positions": ["CB"],
+      "rating": 93,
+      "hidden_attributes": {
+        "defending": 96,
+        "strength": 97,
+        "aerial": 94,
+        "aggression": 97
+      }
+    },
+    {
+      "name": "Patrice Evra",
+      "nationality": "France",
+      "positions": ["LB"],
+      "rating": 89,
+      "hidden_attributes": {
+        "pace": 90,
+        "defending": 89,
+        "stamina": 92,
+        "crossing": 85
+      }
+    },
+
+    {
+      "name": "Michael Carrick",
+      "nationality": "England",
+      "positions": ["CM"],
+      "rating": 89,
+      "hidden_attributes": {
+        "passing": 94,
+        "vision": 93,
+        "composure": 92,
+        "positioning": 91
+      }
+    },
+    {
+      "name": "Paul Scholes",
+      "nationality": "England",
+      "positions": ["CM"],
+      "rating": 89,
+      "hidden_attributes": {
+        "passing": 93,
+        "shooting": 89,
+        "vision": 93,
+        "composure": 92
+      }
+    },
+    {
+      "name": "Ryan Giggs",
+      "nationality": "Wales",
+      "positions": ["LM", "LW"],
+      "rating": 87,
+      "hidden_attributes": {
+        "pace": 88,
+        "dribbling": 89,
+        "crossing": 86,
+        "stamina": 85
+      }
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "nationality": "Portugal",
+      "positions": ["RW", "LW"],
+      "rating": 95,
+      "hidden_attributes": {
+        "pace": 96,
+        "dribbling": 96,
+        "shooting": 94,
+        "aerial": 90
+      }
+    },
+
+    {
+      "name": "Wayne Rooney",
+      "nationality": "England",
+      "positions": ["ST", "CF"],
+      "rating": 94,
+      "hidden_attributes": {
+        "finishing": 95,
+        "strength": 93,
+        "aggression": 96,
+        "composure": 91
+      }
+    },
+    {
+      "name": "Dimitar Berbatov",
+      "nationality": "Bulgaria",
+      "positions": ["ST", "CF"],
+      "rating": 90,
+      "hidden_attributes": {
+        "first_touch": 96,
+        "composure": 95,
+        "finishing": 90,
+        "movement": 88
+      }
+    },
+    {
+      "name": "Carlos Tevez",
+      "nationality": "Argentina",
+      "positions": ["ST", "CF"],
+      "rating": 89,
+      "hidden_attributes": {
+        "workrate": 97,
+        "finishing": 91,
+        "aggression": 96,
+        "movement": 93
+      }
+    },
+    {
+      "name": "Anderson",
+      "nationality": "Brazil",
+      "positions": ["CM"],
+      "rating": 84,
+      "hidden_attributes": {
+        "dribbling": 88,
+        "passing": 85,
+        "agility": 90,
+        "vision": 83
+      }
+    },
+    {
+      "name": "Nani",
+      "nationality": "Portugal",
+      "positions": ["RW", "LW"],
+      "rating": 87,
+      "hidden_attributes": {
+        "pace": 92,
+        "dribbling": 91,
+        "shooting": 88,
+        "crossing": 87
+      }
+    }
+  ]
+},
+
+{
+  "season": "2009/10",
+  "manager": {
+    "name": "Sir Alex Ferguson",
+    "nationality": "Scotland",
+    "rating": 93,
+    "hidden_attributes": {
+      "tactical": 94,
+      "man_management": 99,
+      "adaptability": 98
+    }
+  },
+  "players": [
+    {
+      "name": "Edwin van der Sar",
+      "nationality": "Netherlands",
+      "positions": ["GK"],
+      "rating": 92,
+      "hidden_attributes": {
+        "reflexes": 93,
+        "command": 95,
+        "distribution": 91,
+        "composure": 95
+      }
+    },
+    {
+      "name": "Ben Foster",
+      "nationality": "England",
+      "positions": ["GK"],
+      "rating": 82,
+      "hidden_attributes": {
+        "reflexes": 85,
+        "command": 81,
+        "distribution": 77,
+        "agility": 84
+      }
+    },
+
+    {
+      "name": "Gary Neville",
+      "nationality": "England",
+      "positions": ["RB"],
+      "rating": 86,
+      "hidden_attributes": {
+        "defending": 87,
+        "stamina": 88,
+        "passing": 80,
+        "leadership": 91
+      }
+    },
+    {
+      "name": "Rio Ferdinand",
+      "nationality": "England",
+      "positions": ["CB"],
+      "rating": 92,
+      "hidden_attributes": {
+        "defending": 94,
+        "pace": 87,
+        "positioning": 93,
+        "composure": 95
+      }
+    },
+    {
+      "name": "Nemanja Vidić",
+      "nationality": "Serbia",
+      "positions": ["CB"],
+      "rating": 94,
+      "hidden_attributes": {
+        "defending": 97,
+        "strength": 98,
+        "aerial": 95,
+        "aggression": 98
+      }
+    },
+    {
+      "name": "Patrice Evra",
+      "nationality": "France",
+      "positions": ["LB"],
+      "rating": 89,
+      "hidden_attributes": {
+        "pace": 90,
+        "defending": 89,
+        "stamina": 92,
+        "crossing": 85
+      }
+    },
+
+    {
+      "name": "Michael Carrick",
+      "nationality": "England",
+      "positions": ["CM"],
+      "rating": 90,
+      "hidden_attributes": {
+        "passing": 95,
+        "vision": 94,
+        "composure": 93,
+        "positioning": 92
+      }
+    },
+    {
+      "name": "Paul Scholes",
+      "nationality": "England",
+      "positions": ["CM"],
+      "rating": 88,
+      "hidden_attributes": {
+        "passing": 92,
+        "shooting": 88,
+        "vision": 92,
+        "composure": 91
+      }
+    },
+    {
+      "name": "Ryan Giggs",
+      "nationality": "Wales",
+      "positions": ["LM", "LW"],
+      "rating": 86,
+      "hidden_attributes": {
+        "pace": 87,
+        "dribbling": 88,
+        "crossing": 85,
+        "stamina": 84
+      }
+    },
+
+    {
+      "name": "Wayne Rooney",
+      "nationality": "England",
+      "positions": ["ST", "CF"],
+      "rating": 95,
+      "hidden_attributes": {
+        "finishing": 96,
+        "strength": 94,
+        "aggression": 97,
+        "composure": 92
+      }
+    },
+    {
+      "name": "Dimitar Berbatov",
+      "nationality": "Bulgaria",
+      "positions": ["ST", "CF"],
+      "rating": 91,
+      "hidden_attributes": {
+        "first_touch": 96,
+        "composure": 96,
+        "finishing": 91,
+        "movement": 89
+      }
+    },
+    {
+      "name": "Michael Owen",
+      "nationality": "England",
+      "positions": ["ST"],
+      "rating": 85,
+      "hidden_attributes": {
+        "finishing": 89,
+        "movement": 90,
+        "pace": 88,
+        "composure": 87
+      }
+    },
+    {
+      "name": "Nani",
+      "nationality": "Portugal",
+      "positions": ["RW", "LW"],
+      "rating": 87,
+      "hidden_attributes": {
+        "pace": 92,
+        "dribbling": 91,
+        "shooting": 88,
+        "crossing": 87
+      }
+    },
+    {
+      "name": "Anderson",
+      "nationality": "Brazil",
+      "positions": ["CM"],
+      "rating": 83,
+      "hidden_attributes": {
+        "dribbling": 87,
+        "passing": 84,
+        "agility": 89,
+        "vision": 82
+      }
+    }
+  ]
+},
+
+{
+  "season": "2010/11",
+  "manager": {
+    "name": "Sir Alex Ferguson",
+    "nationality": "Scotland",
+    "rating": 94,
+    "hidden_attributes": {
+      "tactical": 95,
+      "man_management": 99,
+      "adaptability": 98
+    }
+  },
+  "players": [
+    {
+      "name": "Edwin van der Sar",
+      "nationality": "Netherlands",
+      "positions": ["GK"],
+      "rating": 93,
+      "hidden_attributes": {
+        "reflexes": 94,
+        "command": 96,
+        "distribution": 92,
+        "composure": 96
+      }
+    },
+    {
+      "name": "Ben Foster",
+      "nationality": "England",
+      "positions": ["GK"],
+      "rating": 81,
+      "hidden_attributes": {
+        "reflexes": 84,
+        "command": 80,
+        "distribution": 76,
+        "agility": 83
+      }
+    },
+
+    {
+      "name": "Gary Neville",
+      "nationality": "England",
+      "positions": ["RB"],
+      "rating": 84,
+      "hidden_attributes": {
+        "defending": 86,
+        "stamina": 87,
+        "passing": 80,
+        "leadership": 92
+      }
+    },
+    {
+      "name": "Rio Ferdinand",
+      "nationality": "England",
+      "positions": ["CB"],
+      "rating": 91,
+      "hidden_attributes": {
+        "defending": 93,
+        "pace": 86,
+        "positioning": 92,
+        "composure": 94
+      }
+    },
+    {
+      "name": "Nemanja Vidić",
+      "nationality": "Serbia",
+      "positions": ["CB"],
+      "rating": 95,
+      "hidden_attributes": {
+        "defending": 98,
+        "strength": 99,
+        "aerial": 96,
+        "aggression": 98
+      }
+    },
+    {
+      "name": "Patrice Evra",
+      "nationality": "France",
+      "positions": ["LB"],
+      "rating": 90,
+      "hidden_attributes": {
+        "pace": 91,
+        "defending": 90,
+        "stamina": 93,
+        "crossing": 86
+      }
+    },
+
+    {
+      "name": "Michael Carrick",
+      "nationality": "England",
+      "positions": ["CM"],
+      "rating": 91,
+      "hidden_attributes": {
+        "passing": 96,
+        "vision": 95,
+        "composure": 94,
+        "positioning": 93
+      }
+    },
+    {
+      "name": "Paul Scholes",
+      "nationality": "England",
+      "positions": ["CM"],
+      "rating": 87,
+      "hidden_attributes": {
+        "passing": 91,
+        "shooting": 87,
+        "vision": 91,
+        "composure": 90
+      }
+    },
+    {
+      "name": "Ryan Giggs",
+      "nationality": "Wales",
+      "positions": ["LM", "LW"],
+      "rating": 85,
+      "hidden_attributes": {
+        "pace": 86,
+        "dribbling": 87,
+        "crossing": 84,
+        "stamina": 83
+      }
+    },
+
+    {
+      "name": "Wayne Rooney",
+      "nationality": "England",
+      "positions": ["ST", "CF"],
+      "rating": 96,
+      "hidden_attributes": {
+        "finishing": 97,
+        "strength": 95,
+        "aggression": 98,
+        "composure": 93
+      }
+    },
+    {
+      "name": "Javier Hernández",
+      "nationality": "Mexico",
+      "positions": ["ST"],
+      "rating": 88,
+      "hidden_attributes": {
+        "movement": 95,
+        "finishing": 92,
+        "positioning": 93,
+        "pace": 90
+      }
+    },
+    {
+      "name": "Dimitar Berbatov",
+      "nationality": "Bulgaria",
+      "positions": ["ST"],
+      "rating": 90,
+      "hidden_attributes": {
+        "first_touch": 96,
+        "composure": 95,
+        "finishing": 91,
+        "movement": 88
+      }
+    },
+    {
+      "name": "Nani",
+      "nationality": "Portugal",
+      "positions": ["RW", "LW"],
+      "rating": 88,
+      "hidden_attributes": {
+        "pace": 93,
+        "dribbling": 92,
+        "shooting": 89,
+        "crossing": 88
+      }
+    },
+    {
+      "name": "Antonio Valencia",
+      "nationality": "Ecuador",
+      "positions": ["RW", "RM"],
+      "rating": 87,
+      "hidden_attributes": {
+        "pace": 94,
+        "crossing": 89,
+        "strength": 88,
+        "stamina": 92
+      }
+    }
+  ]
+},
+
+{
+  "season": "2011/12",
+  "manager": {
+    "name": "Sir Alex Ferguson",
+    "nationality": "Scotland",
+    "rating": 94,
+    "hidden_attributes": {
+      "tactical": 95,
+      "man_management": 99,
+      "adaptability": 98
+    }
+  },
+  "players": [
+    {
+      "name": "David de Gea",
+      "nationality": "Spain",
+      "positions": ["GK"],
+      "rating": 87,
+      "hidden_attributes": {
+        "reflexes": 94,
+        "command": 86,
+        "distribution": 88,
+        "composure": 85
+      }
+    },
+    {
+      "name": "Anders Lindegaard",
+      "nationality": "Denmark",
+      "positions": ["GK"],
+      "rating": 80,
+      "hidden_attributes": {
+        "reflexes": 82,
+        "command": 80,
+        "distribution": 76,
+        "agility": 81
+      }
+    },
+
+    {
+      "name": "Patrice Evra",
+      "nationality": "France",
+      "positions": ["LB"],
+      "rating": 90,
+      "hidden_attributes": {
+        "pace": 91,
+        "defending": 90,
+        "stamina": 93,
+        "crossing": 86
+      }
+    },
+    {
+      "name": "Rio Ferdinand",
+      "nationality": "England",
+      "positions": ["CB"],
+      "rating": 90,
+      "hidden_attributes": {
+        "defending": 92,
+        "pace": 85,
+        "positioning": 92,
+        "composure": 93
+      }
+    },
+    {
+      "name": "Nemanja Vidić",
+      "nationality": "Serbia",
+      "positions": ["CB"],
+      "rating": 94,
+      "hidden_attributes": {
+        "defending": 97,
+        "strength": 98,
+        "aerial": 95,
+        "aggression": 98
+      }
+    },
+    {
+      "name": "Phil Jones",
+      "nationality": "England",
+      "positions": ["CB", "RB", "CM"],
+      "rating": 84,
+      "hidden_attributes": {
+        "versatility": 93,
+        "defending": 86,
+        "strength": 89,
+        "aggression": 90
+      }
+    },
+
+    {
+      "name": "Michael Carrick",
+      "nationality": "England",
+      "positions": ["CM"],
+      "rating": 91,
+      "hidden_attributes": {
+        "passing": 96,
+        "vision": 95,
+        "composure": 94,
+        "positioning": 93
+      }
+    },
+    {
+      "name": "Paul Scholes",
+      "nationality": "England",
+      "positions": ["CM"],
+      "rating": 88,
+      "hidden_attributes": {
+        "passing": 92,
+        "vision": 92,
+        "shooting": 88,
+        "composure": 91
+      }
+    },
+    {
+      "name": "Ryan Giggs",
+      "nationality": "Wales",
+      "positions": ["LM", "LW"],
+      "rating": 86,
+      "hidden_attributes": {
+        "pace": 87,
+        "dribbling": 88,
+        "crossing": 85,
+        "stamina": 84
+      }
+    },
+
+    {
+      "name": "Ashley Young",
+      "nationality": "England",
+      "positions": ["LW", "RW"],
+      "rating": 86,
+      "hidden_attributes": {
+        "pace": 90,
+        "crossing": 88,
+        "dribbling": 87,
+        "shooting": 84
+      }
+    },
+    {
+      "name": "Antonio Valencia",
+      "nationality": "Ecuador",
+      "positions": ["RW", "RM"],
+      "rating": 88,
+      "hidden_attributes": {
+        "pace": 94,
+        "crossing": 90,
+        "strength": 89,
+        "stamina": 93
+      }
+    },
+
+    {
+      "name": "Wayne Rooney",
+      "nationality": "England",
+      "positions": ["ST", "CF"],
+      "rating": 96,
+      "hidden_attributes": {
+        "finishing": 97,
+        "strength": 95,
+        "aggression": 98,
+        "composure": 93
+      }
+    },
+    {
+      "name": "Javier Hernández",
+      "nationality": "Mexico",
+      "positions": ["ST"],
+      "rating": 89,
+      "hidden_attributes": {
+        "movement": 96,
+        "finishing": 93,
+        "positioning": 94,
+        "pace": 91
+      }
+    },
+    {
+      "name": "Dimitar Berbatov",
+      "nationality": "Bulgaria",
+      "positions": ["ST"],
+      "rating": 89,
+      "hidden_attributes": {
+        "first_touch": 95,
+        "composure": 95,
+        "finishing": 90,
+        "movement": 88
+      }
+    },
+    {
+      "name": "Danny Welbeck",
+      "nationality": "England",
+      "positions": ["ST", "LW"],
+      "rating": 85,
+      "hidden_attributes": {
+        "pace": 90,
+        "movement": 89,
+        "workrate": 92,
+        "finishing": 86
+      }
+    }
+  ]
+},
+
+{
+  "season": "2011/12",
+  "manager": {
+    "name": "Sir Alex Ferguson",
+    "nationality": "Scotland",
+    "rating": 94,
+    "hidden_attributes": {
+      "tactical": 95,
+      "man_management": 99,
+      "adaptability": 98
+    }
+  },
+  "players": [
+    {
+      "name": "David de Gea",
+      "nationality": "Spain",
+      "positions": ["GK"],
+      "rating": 87,
+      "hidden_attributes": {
+        "reflexes": 94,
+        "command": 86,
+        "distribution": 88,
+        "composure": 85
+      }
+    },
+    {
+      "name": "Anders Lindegaard",
+      "nationality": "Denmark",
+      "positions": ["GK"],
+      "rating": 80,
+      "hidden_attributes": {
+        "reflexes": 82,
+        "command": 80,
+        "distribution": 76,
+        "agility": 81
+      }
+    },
+
+    {
+      "name": "Patrice Evra",
+      "nationality": "France",
+      "positions": ["LB"],
+      "rating": 90,
+      "hidden_attributes": {
+        "pace": 91,
+        "defending": 90,
+        "stamina": 93,
+        "crossing": 86
+      }
+    },
+    {
+      "name": "Rio Ferdinand",
+      "nationality": "England",
+      "positions": ["CB"],
+      "rating": 90,
+      "hidden_attributes": {
+        "defending": 92,
+        "pace": 85,
+        "positioning": 92,
+        "composure": 93
+      }
+    },
+    {
+      "name": "Nemanja Vidić",
+      "nationality": "Serbia",
+      "positions": ["CB"],
+      "rating": 94,
+      "hidden_attributes": {
+        "defending": 97,
+        "strength": 98,
+        "aerial": 95,
+        "aggression": 98
+      }
+    },
+    {
+      "name": "Phil Jones",
+      "nationality": "England",
+      "positions": ["CB", "RB", "CM"],
+      "rating": 84,
+      "hidden_attributes": {
+        "versatility": 93,
+        "defending": 86,
+        "strength": 89,
+        "aggression": 90
+      }
+    },
+
+    {
+      "name": "Michael Carrick",
+      "nationality": "England",
+      "positions": ["CM"],
+      "rating": 91,
+      "hidden_attributes": {
+        "passing": 96,
+        "vision": 95,
+        "composure": 94,
+        "positioning": 93
+      }
+    },
+    {
+      "name": "Paul Scholes",
+      "nationality": "England",
+      "positions": ["CM"],
+      "rating": 88,
+      "hidden_attributes": {
+        "passing": 92,
+        "vision": 92,
+        "shooting": 88,
+        "composure": 91
+      }
+    },
+    {
+      "name": "Ryan Giggs",
+      "nationality": "Wales",
+      "positions": ["LM", "LW"],
+      "rating": 86,
+      "hidden_attributes": {
+        "pace": 87,
+        "dribbling": 88,
+        "crossing": 85,
+        "stamina": 84
+      }
+    },
+
+    {
+      "name": "Ashley Young",
+      "nationality": "England",
+      "positions": ["LW", "RW"],
+      "rating": 86,
+      "hidden_attributes": {
+        "pace": 90,
+        "crossing": 88,
+        "dribbling": 87,
+        "shooting": 84
+      }
+    },
+    {
+      "name": "Antonio Valencia",
+      "nationality": "Ecuador",
+      "positions": ["RW", "RM"],
+      "rating": 88,
+      "hidden_attributes": {
+        "pace": 94,
+        "crossing": 90,
+        "strength": 89,
+        "stamina": 93
+      }
+    },
+
+    {
+      "name": "Wayne Rooney",
+      "nationality": "England",
+      "positions": ["ST", "CF"],
+      "rating": 96,
+      "hidden_attributes": {
+        "finishing": 97,
+        "strength": 95,
+        "aggression": 98,
+        "composure": 93
+      }
+    },
+    {
+      "name": "Javier Hernández",
+      "nationality": "Mexico",
+      "positions": ["ST"],
+      "rating": 89,
+      "hidden_attributes": {
+        "movement": 96,
+        "finishing": 93,
+        "positioning": 94,
+        "pace": 91
+      }
+    },
+    {
+      "name": "Dimitar Berbatov",
+      "nationality": "Bulgaria",
+      "positions": ["ST"],
+      "rating": 89,
+      "hidden_attributes": {
+        "first_touch": 95,
+        "composure": 95,
+        "finishing": 90,
+        "movement": 88
+      }
+    },
+    {
+      "name": "Danny Welbeck",
+      "nationality": "England",
+      "positions": ["ST", "LW"],
+      "rating": 85,
+      "hidden_attributes": {
+        "pace": 90,
+        "movement": 89,
+        "workrate": 92,
+        "finishing": 86
+      }
+    }
+  ]
+},
+
+{
+  "season": "2012/13",
+  "manager": {
+    "name": "Sir Alex Ferguson",
+    "nationality": "Scotland",
+    "rating": 95,
+    "hidden_attributes": {
+      "tactical": 96,
+      "man_management": 99,
+      "adaptability": 98
+    }
+  },
+  "players": [
+    {
+      "name": "David de Gea",
+      "nationality": "Spain",
+      "positions": ["GK"],
+      "rating": 89,
+      "hidden_attributes": {
+        "reflexes": 95,
+        "command": 88,
+        "distribution": 90,
+        "composure": 88
+      }
+    },
+    {
+      "name": "Anders Lindegaard",
+      "nationality": "Denmark",
+      "positions": ["GK"],
+      "rating": 81,
+      "hidden_attributes": {
+        "reflexes": 83,
+        "command": 81,
+        "distribution": 77,
+        "agility": 82
+      }
+    },
+
+    {
+      "name": "Patrice Evra",
+      "nationality": "France",
+      "positions": ["LB"],
+      "rating": 90,
+      "hidden_attributes": {
+        "pace": 91,
+        "defending": 90,
+        "stamina": 93,
+        "crossing": 86
+      }
+    },
+    {
+      "name": "Rio Ferdinand",
+      "nationality": "England",
+      "positions": ["CB"],
+      "rating": 89,
+      "hidden_attributes": {
+        "defending": 91,
+        "pace": 84,
+        "positioning": 91,
+        "composure": 92
+      }
+    },
+    {
+      "name": "Nemanja Vidić",
+      "nationality": "Serbia",
+      "positions": ["CB"],
+      "rating": 94,
+      "hidden_attributes": {
+        "defending": 97,
+        "strength": 98,
+        "aerial": 95,
+        "aggression": 98
+      }
+    },
+    {
+      "name": "Rio Ferdinand",
+      "nationality": "England",
+      "positions": ["CB"],
+      "rating": 89,
+      "hidden_attributes": {
+        "defending": 91,
+        "pace": 84,
+        "positioning": 91,
+        "composure": 92
+      }
+    },
+
+    {
+      "name": "Michael Carrick",
+      "nationality": "England",
+      "positions": ["CM"],
+      "rating": 92,
+      "hidden_attributes": {
+        "passing": 97,
+        "vision": 96,
+        "composure": 95,
+        "positioning": 94
+      }
+    },
+    {
+      "name": "Paul Scholes",
+      "nationality": "England",
+      "positions": ["CM"],
+      "rating": 87,
+      "hidden_attributes": {
+        "passing": 91,
+        "vision": 91,
+        "shooting": 87,
+        "composure": 90
+      }
+    },
+    {
+      "name": "Ryan Giggs",
+      "nationality": "Wales",
+      "positions": ["LM", "LW"],
+      "rating": 85,
+      "hidden_attributes": {
+        "pace": 86,
+        "dribbling": 87,
+        "crossing": 84,
+        "stamina": 83
+      }
+    },
+
+    {
+      "name": "Wayne Rooney",
+      "nationality": "England",
+      "positions": ["ST", "CF"],
+      "rating": 95,
+      "hidden_attributes": {
+        "finishing": 96,
+        "strength": 94,
+        "aggression": 97,
+        "composure": 92
+      }
+    },
+    {
+      "name": "Robin van Persie",
+      "nationality": "Netherlands",
+      "positions": ["ST"],
+      "rating": 95,
+      "hidden_attributes": {
+        "finishing": 97,
+        "first_touch": 96,
+        "movement": 94,
+        "composure": 95
+      }
+    },
+    {
+      "name": "Javier Hernández",
+      "nationality": "Mexico",
+      "positions": ["ST"],
+      "rating": 88,
+      "hidden_attributes": {
+        "movement": 95,
+        "finishing": 92,
+        "positioning": 93,
+        "pace": 90
+      }
+    },
+    {
+      "name": "Danny Welbeck",
+      "nationality": "England",
+      "positions": ["ST", "LW"],
+      "rating": 86,
+      "hidden_attributes": {
+        "pace": 90,
+        "movement": 90,
+        "workrate": 93,
+        "finishing": 87
+      }
+    },
+    {
+      "name": "Antonio Valencia",
+      "nationality": "Ecuador",
+      "positions": ["RW", "RM"],
+      "rating": 88,
+      "hidden_attributes": {
+        "pace": 93,
+        "crossing": 91,
+        "strength": 90,
+        "stamina": 93
+      }
+    },
+    {
+      "name": "Ashley Young",
+      "nationality": "England",
+      "positions": ["LW", "RW"],
+      "rating": 85,
+      "hidden_attributes": {
+        "pace": 89,
+        "crossing": 87,
+        "dribbling": 86,
+        "shooting": 83
+      }
+    }
+  ]
+},
+
+{
+  "season": "2013/14",
+  "manager": {
+    "name": "David Moyes",
+    "nationality": "Scotland",
+    "rating": 84,
+    "hidden_attributes": {
+      "tactical": 82,
+      "man_management": 86,
+      "adaptability": 80
+    }
+  },
+  "players": [
+    {
+      "name": "David de Gea",
+      "nationality": "Spain",
+      "positions": ["GK"],
+      "rating": 90,
+      "hidden_attributes": {
+        "reflexes": 96,
+        "command": 89,
+        "distribution": 91,
+        "composure": 89
+      }
+    },
+    {
+      "name": "Anders Lindegaard",
+      "nationality": "Denmark",
+      "positions": ["GK"],
+      "rating": 81,
+      "hidden_attributes": {
+        "reflexes": 83,
+        "command": 81,
+        "distribution": 77,
+        "agility": 82
+      }
+    },
+
+    {
+      "name": "Patrice Evra",
+      "nationality": "France",
+      "positions": ["LB"],
+      "rating": 89,
+      "hidden_attributes": {
+        "pace": 90,
+        "defending": 89,
+        "stamina": 92,
+        "crossing": 85
+      }
+    },
+    {
+      "name": "Rio Ferdinand",
+      "nationality": "England",
+      "positions": ["CB"],
+      "rating": 88,
+      "hidden_attributes": {
+        "defending": 90,
+        "pace": 83,
+        "positioning": 90,
+        "composure": 91
+      }
+    },
+    {
+      "name": "Nemanja Vidić",
+      "nationality": "Serbia",
+      "positions": ["CB"],
+      "rating": 92,
+      "hidden_attributes": {
+        "defending": 96,
+        "strength": 97,
+        "aerial": 94,
+        "aggression": 97
+      }
+    },
+    {
+      "name": "Phil Jones",
+      "nationality": "England",
+      "positions": ["CB", "RB", "CM"],
+      "rating": 85,
+      "hidden_attributes": {
+        "versatility": 93,
+        "defending": 87,
+        "strength": 90,
+        "aggression": 91
+      }
+    },
+
+    {
+      "name": "Michael Carrick",
+      "nationality": "England",
+      "positions": ["CM"],
+      "rating": 91,
+      "hidden_attributes": {
+        "passing": 96,
+        "vision": 95,
+        "composure": 94,
+        "positioning": 93
+      }
+    },
+    {
+      "name": "Tom Cleverley",
+      "nationality": "England",
+      "positions": ["CM"],
+      "rating": 82,
+      "hidden_attributes": {
+        "passing": 85,
+        "movement": 86,
+        "stamina": 88,
+        "pressing": 87
+      }
+    },
+    {
+      "name": "Ryan Giggs",
+      "nationality": "Wales",
+      "positions": ["LM", "CM"],
+      "rating": 84,
+      "hidden_attributes": {
+        "pace": 85,
+        "dribbling": 86,
+        "crossing": 84,
+        "vision": 88
+      }
+    },
+
+    {
+      "name": "Wayne Rooney",
+      "nationality": "England",
+      "positions": ["ST", "CF"],
+      "rating": 95,
+      "hidden_attributes": {
+        "finishing": 96,
+        "strength": 94,
+        "aggression": 97,
+        "composure": 92
+      }
+    },
+    {
+      "name": "Robin van Persie",
+      "nationality": "Netherlands",
+      "positions": ["ST"],
+      "rating": 94,
+      "hidden_attributes": {
+        "finishing": 96,
+        "first_touch": 95,
+        "movement": 93,
+        "composure": 95
+      }
+    },
+    {
+      "name": "Javier Hernández",
+      "nationality": "Mexico",
+      "positions": ["ST"],
+      "rating": 88,
+      "hidden_attributes": {
+        "movement": 95,
+        "finishing": 92,
+        "positioning": 93,
+        "pace": 90
+      }
+    },
+    {
+      "name": "Danny Welbeck",
+      "nationality": "England",
+      "positions": ["ST", "LW"],
+      "rating": 86,
+      "hidden_attributes": {
+        "pace": 90,
+        "movement": 90,
+        "workrate": 93,
+        "finishing": 87
+      }
+    },
+    {
+      "name": "Antonio Valencia",
+      "nationality": "Ecuador",
+      "positions": ["RW", "RM"],
+      "rating": 87,
+      "hidden_attributes": {
+        "pace": 92,
+        "crossing": 90,
+        "strength": 89,
+        "stamina": 92
+      }
+    },
+    {
+      "name": "Ashley Young",
+      "nationality": "England",
+      "positions": ["LW", "RW"],
+      "rating": 85,
+      "hidden_attributes": {
+        "pace": 88,
+        "crossing": 86,
+        "dribbling": 85,
+        "shooting": 82
+      }
+    }
+  ]
+},
+
+{
+  "season": "2014/15",
+  "manager": {
+    "name": "Louis van Gaal",
+    "nationality": "Netherlands",
+    "rating": 88,
+    "hidden_attributes": {
+      "tactical": 92,
+      "man_management": 85,
+      "discipline": 95
+    }
+  },
+  "players": [
+    {
+      "name": "David de Gea",
+      "nationality": "Spain",
+      "positions": ["GK"],
+      "rating": 93,
+      "hidden_attributes": {
+        "reflexes": 97,
+        "command": 90,
+        "distribution": 92,
+        "composure": 91
+      }
+    },
+    {
+      "name": "Victor Valdés",
+      "nationality": "Spain",
+      "positions": ["GK"],
+      "rating": 85,
+      "hidden_attributes": {
+        "distribution": 92,
+        "composure": 90,
+        "reflexes": 86,
+        "positioning": 88
+      }
+    },
+
+    {
+      "name": "Luke Shaw",
+      "nationality": "England",
+      "positions": ["LB"],
+      "rating": 86,
+      "hidden_attributes": {
+        "pace": 92,
+        "defending": 87,
+        "stamina": 91,
+        "crossing": 84
+      }
+    },
+    {
+      "name": "Marcos Rojo",
+      "nationality": "Argentina",
+      "positions": ["CB", "LB"],
+      "rating": 84,
+      "hidden_attributes": {
+        "defending": 86,
+        "strength": 90,
+        "aggression": 92,
+        "versatility": 88
+      }
+    },
+    {
+      "name": "Chris Smalling",
+      "nationality": "England",
+      "positions": ["CB"],
+      "rating": 85,
+      "hidden_attributes": {
+        "defending": 88,
+        "aerial": 90,
+        "strength": 89,
+        "positioning": 86
+      }
+    },
+    {
+      "name": "Phil Jones",
+      "nationality": "England",
+      "positions": ["CB", "RB"],
+      "rating": 84,
+      "hidden_attributes": {
+        "versatility": 92,
+        "defending": 87,
+        "aggression": 91,
+        "strength": 89
+      }
+    },
+
+    {
+      "name": "Michael Carrick",
+      "nationality": "England",
+      "positions": ["CM"],
+      "rating": 91,
+      "hidden_attributes": {
+        "passing": 96,
+        "vision": 95,
+        "composure": 94,
+        "positioning": 93
+      }
+    },
+    {
+      "name": "Daley Blind",
+      "nationality": "Netherlands",
+      "positions": ["CM", "LB"],
+      "rating": 86,
+      "hidden_attributes": {
+        "positioning": 90,
+        "passing": 88,
+        "intelligence": 91,
+        "stamina": 88
+      }
+    },
+    {
+      "name": "Juan Mata",
+      "nationality": "Spain",
+      "positions": ["CAM", "RW"],
+      "rating": 88,
+      "hidden_attributes": {
+        "vision": 94,
+        "passing": 93,
+        "finishing": 87,
+        "composure": 92
+      }
+    },
+
+    {
+      "name": "Wayne Rooney",
+      "nationality": "England",
+      "positions": ["ST", "CF"],
+      "rating": 93,
+      "hidden_attributes": {
+        "finishing": 94,
+        "passing": 90,
+        "aggression": 96,
+        "composure": 92
+      }
+    },
+    {
+      "name": "Robin van Persie",
+      "nationality": "Netherlands",
+      "positions": ["ST"],
+      "rating": 92,
+      "hidden_attributes": {
+        "finishing": 94,
+        "first_touch": 94,
+        "movement": 91,
+        "composure": 93
+      }
+    },
+    {
+      "name": "Radamel Falcao",
+      "nationality": "Colombia",
+      "positions": ["ST"],
+      "rating": 86,
+      "hidden_attributes": {
+        "finishing": 90,
+        "movement": 88,
+        "strength": 89,
+        "composure": 88
+      }
+    },
+    {
+      "name": "Angel Di María",
+      "nationality": "Argentina",
+      "positions": ["RW", "LW"],
+      "rating": 89,
+      "hidden_attributes": {
+        "dribbling": 92,
+        "pace": 93,
+        "vision": 94,
+        "crossing": 91
+      }
+    },
+    {
+      "name": "Ashley Young",
+      "nationality": "England",
+      "positions": ["LW", "RW"],
+      "rating": 84,
+      "hidden_attributes": {
+        "pace": 87,
+        "crossing": 85,
+        "dribbling": 84,
+        "workrate": 90
+      }
+    },
+    {
+      "name": "Antonio Valencia",
+      "nationality": "Ecuador",
+      "positions": ["RW", "RB"],
+      "rating": 86,
+      "hidden_attributes": {
+        "pace": 91,
+        "strength": 90,
+        "crossing": 88,
+        "stamina": 92
+      }
+    }
+  ]
+},
+{
+  "season": "2015/16",
+  "manager": {
+    "name": "Louis van Gaal",
+    "nationality": "Netherlands",
+    "rating": 87,
+    "hidden_attributes": {
+      "tactical": 91,
+      "man_management": 84,
+      "discipline": 94
+    }
+  },
+  "players": [
+    {
+      "name": "David de Gea",
+      "nationality": "Spain",
+      "positions": ["GK"],
+      "rating": 94,
+      "hidden_attributes": {
+        "reflexes": 98,
+        "shot_stopping": 97,
+        "command": 90,
+        "composure": 92
+      }
+    },
+    {
+      "name": "Sergio Romero",
+      "nationality": "Argentina",
+      "positions": ["GK"],
+      "rating": 82,
+      "hidden_attributes": {
+        "reflexes": 85,
+        "command": 83,
+        "distribution": 80,
+        "agility": 84
+      }
+    },
+
+    {
+      "name": "Luke Shaw",
+      "nationality": "England",
+      "positions": ["LB"],
+      "rating": 85,
+      "hidden_attributes": {
+        "pace": 91,
+        "defending": 86,
+        "stamina": 90,
+        "crossing": 83
+      }
+    },
+    {
+      "name": "Chris Smalling",
+      "nationality": "England",
+      "positions": ["CB"],
+      "rating": 86,
+      "hidden_attributes": {
+        "defending": 89,
+        "aerial": 91,
+        "strength": 90,
+        "positioning": 87
+      }
+    },
+    {
+      "name": "Daley Blind",
+      "nationality": "Netherlands",
+      "positions": ["CB", "LB", "CM"],
+      "rating": 87,
+      "hidden_attributes": {
+        "intelligence": 92,
+        "passing": 89,
+        "positioning": 91,
+        "stamina": 88
+      }
+    },
+    {
+      "name": "Matteo Darmian",
+      "nationality": "Italy",
+      "positions": ["RB"],
+      "rating": 84,
+      "hidden_attributes": {
+        "defending": 88,
+        "positioning": 86,
+        "stamina": 87,
+        "crossing": 82
+      }
+    },
+
+    {
+      "name": "Michael Carrick",
+      "nationality": "England",
+      "positions": ["CM"],
+      "rating": 90,
+      "hidden_attributes": {
+        "passing": 96,
+        "vision": 95,
+        "composure": 94,
+        "positioning": 93
+      }
+    },
+    {
+      "name": "Bastian Schweinsteiger",
+      "nationality": "Germany",
+      "positions": ["CM"],
+      "rating": 86,
+      "hidden_attributes": {
+        "passing": 91,
+        "leadership": 93,
+        "tactical_intelligence": 92,
+        "stamina": 85
+      }
+    },
+    {
+      "name": "Juan Mata",
+      "nationality": "Spain",
+      "positions": ["CAM", "RW"],
+      "rating": 88,
+      "hidden_attributes": {
+        "vision": 94,
+        "passing": 93,
+        "composure": 92,
+        "finishing": 86
+      }
+    },
+
+    {
+      "name": "Wayne Rooney",
+      "nationality": "England",
+      "positions": ["ST", "CM"],
+      "rating": 92,
+      "hidden_attributes": {
+        "finishing": 93,
+        "passing": 91,
+        "aggression": 95,
+        "composure": 91
+      }
+    },
+    {
+      "name": "Anthony Martial",
+      "nationality": "France",
+      "positions": ["ST", "LW"],
+      "rating": 87,
+      "hidden_attributes": {
+        "pace": 92,
+        "dribbling": 90,
+        "finishing": 88,
+        "composure": 87
+      }
+    },
+    {
+      "name": "Marcus Rashford",
+      "nationality": "England",
+      "positions": ["ST", "LW"],
+      "rating": 85,
+      "hidden_attributes": {
+        "pace": 93,
+        "movement": 90,
+        "finishing": 86,
+        "confidence": 89
+      }
+    },
+    {
+      "name": "Memphis Depay",
+      "nationality": "Netherlands",
+      "positions": ["LW", "RW"],
+      "rating": 84,
+      "hidden_attributes": {
+        "dribbling": 88,
+        "shooting": 87,
+        "confidence": 85,
+        "pace": 90
+      }
+    },
+    {
+      "name": "Ander Herrera",
+      "nationality": "Spain",
+      "positions": ["CM"],
+      "rating": 86,
+      "hidden_attributes": {
+        "pressing": 92,
+        "passing": 88,
+        "intelligence": 90,
+        "stamina": 91
+      }
+    },
+    {
+      "name": "Ashley Young",
+      "nationality": "England",
+      "positions": ["LW", "RB"],
+      "rating": 85,
+      "hidden_attributes": {
+        "pace": 88,
+        "crossing": 86,
+        "workrate": 92,
+        "versatility": 90
+      }
+    }
+  ]
+},
+
+{
+  "season": "2016/17",
+  "manager": {
+    "name": "José Mourinho",
+    "nationality": "Portugal",
+    "rating": 90,
+    "hidden_attributes": {
+      "tactical": 93,
+      "man_management": 92,
+      "defensive_structure": 96
+    }
+  },
+  "players": [
+    {
+      "name": "David de Gea",
+      "nationality": "Spain",
+      "positions": ["GK"],
+      "rating": 95,
+      "hidden_attributes": {
+        "reflexes": 99,
+        "shot_stopping": 98,
+        "command": 91,
+        "composure": 93
+      }
+    },
+    {
+      "name": "Sergio Romero",
+      "nationality": "Argentina",
+      "positions": ["GK"],
+      "rating": 83,
+      "hidden_attributes": {
+        "reflexes": 86,
+        "command": 84,
+        "distribution": 81,
+        "agility": 85
+      }
+    },
+
+    {
+      "name": "Antonio Valencia",
+      "nationality": "Ecuador",
+      "positions": ["RB", "RW"],
+      "rating": 88,
+      "hidden_attributes": {
+        "pace": 92,
+        "strength": 91,
+        "crossing": 87,
+        "stamina": 93
+      }
+    },
+    {
+      "name": "Eric Bailly",
+      "nationality": "Ivory Coast",
+      "positions": ["CB"],
+      "rating": 86,
+      "hidden_attributes": {
+        "defending": 88,
+        "aggression": 92,
+        "pace": 87,
+        "strength": 91
+      }
+    },
+    {
+      "name": "Chris Smalling",
+      "nationality": "England",
+      "positions": ["CB"],
+      "rating": 87,
+      "hidden_attributes": {
+        "defending": 90,
+        "aerial": 92,
+        "strength": 91,
+        "positioning": 88
+      }
+    },
+    {
+      "name": "Daley Blind",
+      "nationality": "Netherlands",
+      "positions": ["CB", "CM"],
+      "rating": 86,
+      "hidden_attributes": {
+        "intelligence": 92,
+        "passing": 89,
+        "positioning": 91,
+        "composure": 90
+      }
+    },
+
+    {
+      "name": "Paul Pogba",
+      "nationality": "France",
+      "positions": ["CM"],
+      "rating": 91,
+      "hidden_attributes": {
+        "physical": 95,
+        "passing": 92,
+        "dribbling": 90,
+        "creativity": 93
+      }
+    },
+    {
+      "name": "Ander Herrera",
+      "nationality": "Spain",
+      "positions": ["CM"],
+      "rating": 87,
+      "hidden_attributes": {
+        "pressing": 93,
+        "passing": 88,
+        "intelligence": 91,
+        "stamina": 92
+      }
+    },
+    {
+      "name": "Juan Mata",
+      "nationality": "Spain",
+      "positions": ["CAM", "RW"],
+      "rating": 87,
+      "hidden_attributes": {
+        "vision": 94,
+        "passing": 93,
+        "composure": 91,
+        "finishing": 85
+      }
+    },
+
+    {
+      "name": "Paul Pogba",
+      "nationality": "France",
+      "positions": ["CM"],
+      "rating": 91,
+      "hidden_attributes": {
+        "physical": 95,
+        "passing": 92,
+        "dribbling": 90,
+        "creativity": 93
+      }
+    },
+
+    {
+      "name": "Zlatan Ibrahimović",
+      "nationality": "Sweden",
+      "positions": ["ST"],
+      "rating": 91,
+      "hidden_attributes": {
+        "finishing": 95,
+        "strength": 97,
+        "aerial": 96,
+        "confidence": 99
+      }
+    },
+    {
+      "name": "Anthony Martial",
+      "nationality": "France",
+      "positions": ["ST", "LW"],
+      "rating": 86,
+      "hidden_attributes": {
+        "pace": 91,
+        "dribbling": 89,
+        "finishing": 87,
+        "composure": 86
+      }
+    },
+    {
+      "name": "Marcus Rashford",
+      "nationality": "England",
+      "positions": ["ST", "LW"],
+      "rating": 86,
+      "hidden_attributes": {
+        "pace": 92,
+        "movement": 90,
+        "finishing": 87,
+        "confidence": 90
+      }
+    },
+    {
+      "name": "Henrikh Mkhitaryan",
+      "nationality": "Armenia",
+      "positions": ["RW", "CAM"],
+      "rating": 86,
+      "hidden_attributes": {
+        "creativity": 92,
+        "passing": 89,
+        "movement": 88,
+        "pressing": 87
+      }
+    },
+    {
+      "name": "Jesse Lingard",
+      "nationality": "England",
+      "positions": ["RW", "CAM"],
+      "rating": 84,
+      "hidden_attributes": {
+        "movement": 88,
+        "pressing": 90,
+        "stamina": 91,
+        "finishing": 83
+      }
+    }
+  ]
+},
+
+{
+  "season": "2016/17",
+  "manager": {
+    "name": "José Mourinho",
+    "nationality": "Portugal",
+    "rating": 90,
+    "hidden_attributes": {
+      "tactical": 93,
+      "man_management": 92,
+      "defensive_structure": 96
+    }
+  },
+  "players": [
+    {
+      "name": "David de Gea",
+      "nationality": "Spain",
+      "positions": ["GK"],
+      "rating": 95,
+      "hidden_attributes": {
+        "reflexes": 99,
+        "shot_stopping": 98,
+        "command": 91,
+        "composure": 93
+      }
+    },
+    {
+      "name": "Sergio Romero",
+      "nationality": "Argentina",
+      "positions": ["GK"],
+      "rating": 83,
+      "hidden_attributes": {
+        "reflexes": 86,
+        "command": 84,
+        "distribution": 81,
+        "agility": 85
+      }
+    },
+
+    {
+      "name": "Antonio Valencia",
+      "nationality": "Ecuador",
+      "positions": ["RB", "RW"],
+      "rating": 88,
+      "hidden_attributes": {
+        "pace": 92,
+        "strength": 91,
+        "crossing": 87,
+        "stamina": 93
+      }
+    },
+    {
+      "name": "Eric Bailly",
+      "nationality": "Ivory Coast",
+      "positions": ["CB"],
+      "rating": 86,
+      "hidden_attributes": {
+        "defending": 88,
+        "aggression": 92,
+        "pace": 87,
+        "strength": 91
+      }
+    },
+    {
+      "name": "Chris Smalling",
+      "nationality": "England",
+      "positions": ["CB"],
+      "rating": 87,
+      "hidden_attributes": {
+        "defending": 90,
+        "aerial": 92,
+        "strength": 91,
+        "positioning": 88
+      }
+    },
+    {
+      "name": "Daley Blind",
+      "nationality": "Netherlands",
+      "positions": ["CB", "CM"],
+      "rating": 86,
+      "hidden_attributes": {
+        "intelligence": 92,
+        "passing": 89,
+        "positioning": 91,
+        "composure": 90
+      }
+    },
+
+    {
+      "name": "Paul Pogba",
+      "nationality": "France",
+      "positions": ["CM"],
+      "rating": 91,
+      "hidden_attributes": {
+        "physical": 95,
+        "passing": 92,
+        "dribbling": 90,
+        "creativity": 93
+      }
+    },
+    {
+      "name": "Ander Herrera",
+      "nationality": "Spain",
+      "positions": ["CM"],
+      "rating": 87,
+      "hidden_attributes": {
+        "pressing": 93,
+        "passing": 88,
+        "intelligence": 91,
+        "stamina": 92
+      }
+    },
+    {
+      "name": "Juan Mata",
+      "nationality": "Spain",
+      "positions": ["CAM", "RW"],
+      "rating": 87,
+      "hidden_attributes": {
+        "vision": 94,
+        "passing": 93,
+        "composure": 91,
+        "finishing": 85
+      }
+    },
+
+    {
+      "name": "Paul Pogba",
+      "nationality": "France",
+      "positions": ["CM"],
+      "rating": 91,
+      "hidden_attributes": {
+        "physical": 95,
+        "passing": 92,
+        "dribbling": 90,
+        "creativity": 93
+      }
+    },
+
+    {
+      "name": "Zlatan Ibrahimović",
+      "nationality": "Sweden",
+      "positions": ["ST"],
+      "rating": 91,
+      "hidden_attributes": {
+        "finishing": 95,
+        "strength": 97,
+        "aerial": 96,
+        "confidence": 99
+      }
+    },
+    {
+      "name": "Anthony Martial",
+      "nationality": "France",
+      "positions": ["ST", "LW"],
+      "rating": 86,
+      "hidden_attributes": {
+        "pace": 91,
+        "dribbling": 89,
+        "finishing": 87,
+        "composure": 86
+      }
+    },
+    {
+      "name": "Marcus Rashford",
+      "nationality": "England",
+      "positions": ["ST", "LW"],
+      "rating": 86,
+      "hidden_attributes": {
+        "pace": 92,
+        "movement": 90,
+        "finishing": 87,
+        "confidence": 90
+      }
+    },
+    {
+      "name": "Henrikh Mkhitaryan",
+      "nationality": "Armenia",
+      "positions": ["RW", "CAM"],
+      "rating": 86,
+      "hidden_attributes": {
+        "creativity": 92,
+        "passing": 89,
+        "movement": 88,
+        "pressing": 87
+      }
+    },
+    {
+      "name": "Jesse Lingard",
+      "nationality": "England",
+      "positions": ["RW", "CAM"],
+      "rating": 84,
+      "hidden_attributes": {
+        "movement": 88,
+        "pressing": 90,
+        "stamina": 91,
+        "finishing": 83
+      }
+    }
+  ]
+},
+
+{
+  "season": "2018/19",
+  "manager": {
+    "name": "José Mourinho / Ole Gunnar Solskjær (interim)",
+    "nationality": "Portugal / Norway",
+    "rating": 86,
+    "hidden_attributes": {
+      "tactical": 88,
+      "man_management": 89,
+      "stability": 75
+    }
+  },
+  "players": [
+    {
+      "name": "David de Gea",
+      "nationality": "Spain",
+      "positions": ["GK"],
+      "rating": 94,
+      "hidden_attributes": {
+        "reflexes": 98,
+        "shot_stopping": 97,
+        "command": 90,
+        "composure": 90
+      }
+    },
+
+    {
+      "name": "Luke Shaw",
+      "nationality": "England",
+      "positions": ["LB"],
+      "rating": 86,
+      "hidden_attributes": {
+        "pace": 92,
+        "defending": 87,
+        "stamina": 91,
+        "crossing": 85
+      }
+    },
+    {
+      "name": "Ashley Young",
+      "nationality": "England",
+      "positions": ["RB", "LW"],
+      "rating": 85,
+      "hidden_attributes": {
+        "versatility": 92,
+        "crossing": 86,
+        "stamina": 91,
+        "workrate": 93
+      }
+    },
+    {
+      "name": "Victor Lindelöf",
+      "nationality": "Sweden",
+      "positions": ["CB"],
+      "rating": 85,
+      "hidden_attributes": {
+        "composure": 88,
+        "passing": 86,
+        "positioning": 87,
+        "defending": 86
+      }
+    },
+    {
+      "name": "Chris Smalling",
+      "nationality": "England",
+      "positions": ["CB"],
+      "rating": 86,
+      "hidden_attributes": {
+        "defending": 89,
+        "aerial": 91,
+        "strength": 90,
+        "aggression": 91
+      }
+    },
+
+    {
+      "name": "Nemanja Matić",
+      "nationality": "Serbia",
+      "positions": ["CM"],
+      "rating": 87,
+      "hidden_attributes": {
+        "defensive_awareness": 92,
+        "passing": 88,
+        "physical": 91,
+        "positioning": 93
+      }
+    },
+    {
+      "name": "Paul Pogba",
+      "nationality": "France",
+      "positions": ["CM"],
+      "rating": 91,
+      "hidden_attributes": {
+        "creativity": 94,
+        "dribbling": 92,
+        "passing": 91,
+        "physical": 95
+      }
+    },
+    {
+      "name": "Ander Herrera",
+      "nationality": "Spain",
+      "positions": ["CM"],
+      "rating": 87,
+      "hidden_attributes": {
+        "pressing": 93,
+        "intelligence": 92,
+        "stamina": 93,
+        "passing": 88
+      }
+    },
+
+    {
+      "name": "Jesse Lingard",
+      "nationality": "England",
+      "positions": ["RW", "CAM"],
+      "rating": 86,
+      "hidden_attributes": {
+        "movement": 91,
+        "pressing": 93,
+        "stamina": 92,
+        "finishing": 86
+      }
+    },
+    {
+      "name": "Marcus Rashford",
+      "nationality": "England",
+      "positions": ["ST", "LW"],
+      "rating": 88,
+      "hidden_attributes": {
+        "pace": 94,
+        "movement": 92,
+        "finishing": 89,
+        "confidence": 91
+      }
+    },
+    {
+      "name": "Anthony Martial",
+      "nationality": "France",
+      "positions": ["ST", "LW"],
+      "rating": 88,
+      "hidden_attributes": {
+        "pace": 92,
+        "dribbling": 91,
+        "finishing": 89,
+        "composure": 88
+      }
+    },
+    {
+      "name": "Romelu Lukaku",
+      "nationality": "Belgium",
+      "positions": ["ST"],
+      "rating": 88,
+      "hidden_attributes": {
+        "strength": 94,
+        "finishing": 89,
+        "hold_up_play": 93,
+        "pace": 87
+      }
+    },
+    {
+      "name": "Alexis Sánchez",
+      "nationality": "Chile",
+      "positions": ["LW", "RW"],
+      "rating": 84,
+      "hidden_attributes": {
+        "pressing": 90,
+        "dribbling": 86,
+        "finishing": 84,
+        "workrate": 92
+      }
+    },
+    {
+      "name": "Juan Mata",
+      "nationality": "Spain",
+      "positions": ["CAM", "RW"],
+      "rating": 86,
+      "hidden_attributes": {
+        "vision": 93,
+        "passing": 92,
+        "composure": 90,
+        "finishing": 84
+      }
+    }
+  ]
+},
+
+{
+  "season": "2019/20",
+  "manager": {
+    "name": "Ole Gunnar Solskjær",
+    "nationality": "Norway",
+    "rating": 86,
+    "hidden_attributes": {
+      "man_management": 90,
+      "tactical": 84,
+      "transition_play": 89,
+      "stability": 80
+    }
+  },
+  "players": [
+    {
+      "name": "David de Gea",
+      "nationality": "Spain",
+      "positions": ["GK"],
+      "rating": 91,
+      "hidden_attributes": {
+        "reflexes": 96,
+        "shot_stopping": 95,
+        "command": 89,
+        "composure": 88
+      }
+    },
+    {
+      "name": "Sergio Romero",
+      "nationality": "Argentina",
+      "positions": ["GK"],
+      "rating": 82,
+      "hidden_attributes": {
+        "reflexes": 85,
+        "command": 83,
+        "distribution": 80,
+        "agility": 84
+      }
+    },
+
+    {
+      "name": "Aaron Wan-Bissaka",
+      "nationality": "England",
+      "positions": ["RB"],
+      "rating": 85,
+      "hidden_attributes": {
+        "tackling": 95,
+        "defending": 92,
+        "pace": 88,
+        "positioning": 87
+      }
+    },
+    {
+      "name": "Harry Maguire",
+      "nationality": "England",
+      "positions": ["CB"],
+      "rating": 86,
+      "hidden_attributes": {
+        "aerial": 92,
+        "passing": 88,
+        "positioning": 87,
+        "leadership": 90
+      }
+    },
+    {
+      "name": "Victor Lindelöf",
+      "nationality": "Sweden",
+      "positions": ["CB"],
+      "rating": 85,
+      "hidden_attributes": {
+        "composure": 88,
+        "passing": 86,
+        "positioning": 87,
+        "defending": 86
+      }
+    },
+    {
+      "name": "Luke Shaw",
+      "nationality": "England",
+      "positions": ["LB"],
+      "rating": 84,
+      "hidden_attributes": {
+        "pace": 90,
+        "defending": 85,
+        "stamina": 89,
+        "crossing": 82
+      }
+    },
+
+    {
+      "name": "Fred",
+      "nationality": "Brazil",
+      "positions": ["CM"],
+      "rating": 84,
+      "hidden_attributes": {
+        "pressing": 92,
+        "energy": 94,
+        "passing": 84,
+        "interceptions": 88
+      }
+    },
+    {
+      "name": "Scott McTominay",
+      "nationality": "Scotland",
+      "positions": ["CM"],
+      "rating": 83,
+      "hidden_attributes": {
+        "physical": 91,
+        "defending": 85,
+        "stamina": 93,
+        "movement": 84
+      }
+    },
+    {
+      "name": "Paul Pogba",
+      "nationality": "France",
+      "positions": ["CM"],
+      "rating": 90,
+      "hidden_attributes": {
+        "creativity": 94,
+        "dribbling": 92,
+        "passing": 91,
+        "physical": 95
+      }
+    },
+
+    {
+      "name": "Bruno Fernandes",
+      "nationality": "Portugal",
+      "positions": ["CAM"],
+      "rating": 91,
+      "hidden_attributes": {
+        "chance_creation": 96,
+        "passing": 94,
+        "shooting": 90,
+        "vision": 95
+      }
+    },
+    {
+      "name": "Juan Mata",
+      "nationality": "Spain",
+      "positions": ["CAM", "RW"],
+      "rating": 84,
+      "hidden_attributes": {
+        "vision": 93,
+        "passing": 92,
+        "composure": 91,
+        "finishing": 82
+      }
+    },
+
+    {
+      "name": "Marcus Rashford",
+      "nationality": "England",
+      "positions": ["LW", "ST"],
+      "rating": 88,
+      "hidden_attributes": {
+        "pace": 94,
+        "finishing": 88,
+        "movement": 91,
+        "confidence": 90
+      }
+    },
+    {
+      "name": "Anthony Martial",
+      "nationality": "France",
+      "positions": ["ST", "LW"],
+      "rating": 88,
+      "hidden_attributes": {
+        "dribbling": 91,
+        "pace": 92,
+        "finishing": 89,
+        "composure": 88
+      }
+    },
+    {
+      "name": "Mason Greenwood",
+      "nationality": "England",
+      "positions": ["RW", "ST"],
+      "rating": 86,
+      "hidden_attributes": {
+        "finishing": 91,
+        "composure": 89,
+        "shooting_technique": 93,
+        "movement": 87
+      }
+    },
+    {
+      "name": "Daniel James",
+      "nationality": "Wales",
+      "positions": ["RW", "LW"],
+      "rating": 82,
+      "hidden_attributes": {
+        "pace": 96,
+        "workrate": 92,
+        "crossing": 81,
+        "dribbling": 82
+      }
+    }
+  ]
+},
+
+{
+  "season": "2021/22",
+  "manager": {
+    "name": "Ole Gunnar Solskjær / Ralf Rangnick",
+    "nationality": "Norway / Germany",
+    "rating": 82,
+    "hidden_attributes": {
+      "man_management": 82,
+      "tactical": 81,
+      "transition_play": 84,
+      "stability": 70
+    }
+  },
+  "players": [
+    {
+      "name": "David de Gea",
+      "nationality": "Spain",
+      "positions": ["GK"],
+      "rating": 92,
+      "hidden_attributes": {
+        "reflexes": 97,
+        "shot_stopping": 96,
+        "command": 86,
+        "distribution": 83
+      }
+    },
+    {
+      "name": "Dean Henderson",
+      "nationality": "England",
+      "positions": ["GK"],
+      "rating": 84,
+      "hidden_attributes": {
+        "reflexes": 89,
+        "command": 87,
+        "distribution": 86,
+        "confidence": 88
+      }
+    },
+
+    {
+      "name": "Luke Shaw",
+      "nationality": "England",
+      "positions": ["LB"],
+      "rating": 84,
+      "hidden_attributes": {
+        "pace": 88,
+        "crossing": 85,
+        "defending": 84,
+        "stamina": 89
+      }
+    },
+    {
+      "name": "Harry Maguire",
+      "nationality": "England",
+      "positions": ["CB"],
+      "rating": 82,
+      "hidden_attributes": {
+        "aerial": 91,
+        "passing": 86,
+        "positioning": 81,
+        "leadership": 88
+      }
+    },
+    {
+      "name": "Raphaël Varane",
+      "nationality": "France",
+      "positions": ["CB"],
+      "rating": 88,
+      "hidden_attributes": {
+        "defending": 90,
+        "pace": 86,
+        "positioning": 90,
+        "composure": 91
+      }
+    },
+    {
+      "name": "Diogo Dalot",
+      "nationality": "Portugal",
+      "positions": ["RB"],
+      "rating": 83,
+      "hidden_attributes": {
+        "crossing": 85,
+        "pace": 86,
+        "stamina": 88,
+        "positioning": 83
+      }
+    },
+
+    {
+      "name": "Fred",
+      "nationality": "Brazil",
+      "positions": ["CM"],
+      "rating": 85,
+      "hidden_attributes": {
+        "pressing": 94,
+        "energy": 96,
+        "passing": 84,
+        "interceptions": 90
+      }
+    },
+    {
+      "name": "Scott McTominay",
+      "nationality": "Scotland",
+      "positions": ["CM"],
+      "rating": 84,
+      "hidden_attributes": {
+        "physical": 92,
+        "stamina": 94,
+        "defending": 86,
+        "movement": 84
+      }
+    },
+    {
+      "name": "Bruno Fernandes",
+      "nationality": "Portugal",
+      "positions": ["CAM"],
+      "rating": 91,
+      "hidden_attributes": {
+        "chance_creation": 96,
+        "passing": 94,
+        "vision": 95,
+        "shooting": 90
+      }
+    },
+
+    {
+      "name": "Jadon Sancho",
+      "nationality": "England",
+      "positions": ["RW", "LW"],
+      "rating": 86,
+      "hidden_attributes": {
+        "dribbling": 90,
+        "vision": 88,
+        "passing": 87,
+        "creativity": 90
+      }
+    },
+    {
+      "name": "Marcus Rashford",
+      "nationality": "England",
+      "positions": ["LW", "ST"],
+      "rating": 84,
+      "hidden_attributes": {
+        "pace": 94,
+        "movement": 88,
+        "finishing": 83,
+        "confidence": 80
+      }
+    },
+
+    {
+      "name": "Cristiano Ronaldo",
+      "nationality": "Portugal",
+      "positions": ["ST"],
+      "rating": 92,
+      "hidden_attributes": {
+        "finishing": 98,
+        "positioning": 98,
+        "aerial": 96,
+        "composure": 99
+      }
+    },
+    {
+      "name": "Edinson Cavani",
+      "nationality": "Uruguay",
+      "positions": ["ST"],
+      "rating": 85,
+      "hidden_attributes": {
+        "movement": 94,
+        "finishing": 88,
+        "aerial": 91,
+        "workrate": 93
+      }
+    },
+    {
+      "name": "Mason Greenwood",
+      "nationality": "England",
+      "positions": ["RW", "ST"],
+      "rating": 87,
+      "hidden_attributes": {
+        "finishing": 92,
+        "shooting_technique": 94,
+        "movement": 88,
+        "composure": 90
+      }
+    },
+    {
+      "name": "Anthony Elanga",
+      "nationality": "Sweden",
+      "positions": ["LW", "RW"],
+      "rating": 81,
+      "hidden_attributes": {
+        "pace": 93,
+        "workrate": 91,
+        "movement": 84,
+        "dribbling": 81
+      }
+    }
+  ]
+},
+
+{
+  "season": "2022/23",
+  "manager": {
+    "name": "Erik ten Hag",
+    "nationality": "Netherlands",
+    "rating": 91,
+    "hidden_attributes": {
+      "tactical": 93,
+      "man_management": 89,
+      "discipline": 92,
+      "adaptability": 90
+    }
+  },
+  "players": [
+    {
+      "name": "David de Gea",
+      "nationality": "Spain",
+      "positions": ["GK"],
+      "rating": 89,
+      "hidden_attributes": {
+        "reflexes": 95,
+        "shot_stopping": 94,
+        "command": 86,
+        "distribution": 81
+      }
+    },
+    {
+      "name": "Tom Heaton",
+      "nationality": "England",
+      "positions": ["GK"],
+      "rating": 80,
+      "hidden_attributes": {
+        "reflexes": 81,
+        "command": 83,
+        "positioning": 84,
+        "experience": 95
+      }
+    },
+
+    {
+      "name": "Luke Shaw",
+      "nationality": "England",
+      "positions": ["LB", "CB"],
+      "rating": 89,
+      "hidden_attributes": {
+        "pace": 89,
+        "crossing": 89,
+        "defending": 89,
+        "stamina": 91
+      }
+    },
+    {
+      "name": "Lisandro Martínez",
+      "nationality": "Argentina",
+      "positions": ["CB"],
+      "rating": 91,
+      "hidden_attributes": {
+        "defending": 93,
+        "aggression": 95,
+        "passing": 90,
+        "positioning": 93
+      }
+    },
+    {
+      "name": "Raphaël Varane",
+      "nationality": "France",
+      "positions": ["CB"],
+      "rating": 90,
+      "hidden_attributes": {
+        "defending": 92,
+        "positioning": 92,
+        "pace": 86,
+        "composure": 92
+      }
+    },
+    {
+      "name": "Diogo Dalot",
+      "nationality": "Portugal",
+      "positions": ["RB"],
+      "rating": 86,
+      "hidden_attributes": {
+        "crossing": 87,
+        "pace": 87,
+        "stamina": 90,
+        "positioning": 86
+      }
+    },
+
+    {
+      "name": "Casemiro",
+      "nationality": "Brazil",
+      "positions": ["CDM"],
+      "rating": 93,
+      "hidden_attributes": {
+        "defending": 96,
+        "positioning": 96,
+        "leadership": 94,
+        "physical": 93
+      }
+    },
+    {
+      "name": "Christian Eriksen",
+      "nationality": "Denmark",
+      "positions": ["CM"],
+      "rating": 88,
+      "hidden_attributes": {
+        "passing": 95,
+        "vision": 95,
+        "composure": 92,
+        "creativity": 93
+      }
+    },
+    {
+      "name": "Bruno Fernandes",
+      "nationality": "Portugal",
+      "positions": ["CAM"],
+      "rating": 92,
+      "hidden_attributes": {
+        "chance_creation": 97,
+        "passing": 95,
+        "vision": 96,
+        "leadership": 91
+      }
+    },
+
+    {
+      "name": "Marcus Rashford",
+      "nationality": "England",
+      "positions": ["LW", "ST"],
+      "rating": 93,
+      "hidden_attributes": {
+        "pace": 96,
+        "finishing": 94,
+        "movement": 94,
+        "confidence": 95
+      }
+    },
+    {
+      "name": "Antony",
+      "nationality": "Brazil",
+      "positions": ["RW"],
+      "rating": 84,
+      "hidden_attributes": {
+        "dribbling": 89,
+        "workrate": 90,
+        "crossing": 82,
+        "creativity": 84
+      }
+    },
+
+    {
+      "name": "Anthony Martial",
+      "nationality": "France",
+      "positions": ["ST"],
+      "rating": 85,
+      "hidden_attributes": {
+        "dribbling": 89,
+        "finishing": 87,
+        "movement": 87,
+        "composure": 88
+      }
+    },
+    {
+      "name": "Wout Weghorst",
+      "nationality": "Netherlands",
+      "positions": ["ST"],
+      "rating": 80,
+      "hidden_attributes": {
+        "workrate": 96,
+        "strength": 89,
+        "aerial": 88,
+        "positioning": 82
+      }
+    },
+    {
+      "name": "Jadon Sancho",
+      "nationality": "England",
+      "positions": ["LW", "RW"],
+      "rating": 84,
+      "hidden_attributes": {
+        "dribbling": 88,
+        "vision": 87,
+        "passing": 86,
+        "creativity": 88
+      }
+    },
+    {
+      "name": "Alejandro Garnacho",
+      "nationality": "Argentina",
+      "positions": ["LW", "RW"],
+      "rating": 84,
+      "hidden_attributes": {
+        "pace": 94,
+        "dribbling": 87,
+        "confidence": 91,
+        "movement": 86
+      }
+    }
+  ]
+},
+
+{
+  "season": "2023/24",
+  "manager": {
+    "name": "Erik ten Hag",
+    "nationality": "Netherlands",
+    "rating": 85,
+    "hidden_attributes": {
+      "tactical": 87,
+      "man_management": 84,
+      "discipline": 88,
+      "adaptability": 82
+    }
+  },
+  "players": [
+    {
+      "name": "André Onana",
+      "nationality": "Cameroon",
+      "positions": ["GK"],
+      "rating": 85,
+      "hidden_attributes": {
+        "distribution": 95,
+        "reflexes": 87,
+        "command": 84,
+        "composure": 88
+      }
+    },
+    {
+      "name": "Altay Bayındır",
+      "nationality": "Turkey",
+      "positions": ["GK"],
+      "rating": 80,
+      "hidden_attributes": {
+        "reflexes": 83,
+        "command": 81,
+        "distribution": 79,
+        "agility": 84
+      }
+    },
+
+    {
+      "name": "Diogo Dalot",
+      "nationality": "Portugal",
+      "positions": ["RB", "LB"],
+      "rating": 88,
+      "hidden_attributes": {
+        "crossing": 88,
+        "stamina": 93,
+        "pace": 88,
+        "positioning": 89
+      }
+    },
+    {
+      "name": "Lisandro Martínez",
+      "nationality": "Argentina",
+      "positions": ["CB"],
+      "rating": 89,
+      "hidden_attributes": {
+        "defending": 92,
+        "aggression": 95,
+        "passing": 90,
+        "positioning": 92
+      }
+    },
+    {
+      "name": "Harry Maguire",
+      "nationality": "England",
+      "positions": ["CB"],
+      "rating": 86,
+      "hidden_attributes": {
+        "aerial": 93,
+        "leadership": 91,
+        "positioning": 87,
+        "strength": 91
+      }
+    },
+    {
+      "name": "Raphaël Varane",
+      "nationality": "France",
+      "positions": ["CB"],
+      "rating": 86,
+      "hidden_attributes": {
+        "defending": 90,
+        "positioning": 90,
+        "composure": 91,
+        "pace": 84
+      }
+    },
+
+    {
+      "name": "Kobbie Mainoo",
+      "nationality": "England",
+      "positions": ["CM", "CDM"],
+      "rating": 88,
+      "hidden_attributes": {
+        "composure": 94,
+        "dribbling": 89,
+        "passing": 88,
+        "intelligence": 92
+      }
+    },
+    {
+      "name": "Casemiro",
+      "nationality": "Brazil",
+      "positions": ["CDM", "CM"],
+      "rating": 85,
+      "hidden_attributes": {
+        "defending": 91,
+        "positioning": 90,
+        "physical": 88,
+        "leadership": 92
+      }
+    },
+    {
+      "name": "Bruno Fernandes",
+      "nationality": "Portugal",
+      "positions": ["CAM", "CM"],
+      "rating": 91,
+      "hidden_attributes": {
+        "chance_creation": 97,
+        "passing": 95,
+        "vision": 96,
+        "leadership": 92
+      }
+    },
+
+    {
+      "name": "Alejandro Garnacho",
+      "nationality": "Argentina",
+      "positions": ["LW", "RW"],
+      "rating": 88,
+      "hidden_attributes": {
+        "pace": 95,
+        "dribbling": 89,
+        "confidence": 93,
+        "movement": 89
+      }
+    },
+    {
+      "name": "Marcus Rashford",
+      "nationality": "England",
+      "positions": ["LW", "ST"],
+      "rating": 84,
+      "hidden_attributes": {
+        "pace": 94,
+        "finishing": 83,
+        "movement": 87,
+        "confidence": 79
+      }
+    },
+
+    {
+      "name": "Rasmus Højlund",
+      "nationality": "Denmark",
+      "positions": ["ST"],
+      "rating": 86,
+      "hidden_attributes": {
+        "pace": 91,
+        "strength": 89,
+        "movement": 88,
+        "finishing": 86
+      }
+    },
+    {
+      "name": "Scott McTominay",
+      "nationality": "Scotland",
+      "positions": ["CM", "CDM"],
+      "rating": 85,
+      "hidden_attributes": {
+        "physical": 92,
+        "stamina": 93,
+        "finishing": 85,
+        "movement": 86
+      }
+    },
+    {
+      "name": "Mason Mount",
+      "nationality": "England",
+      "positions": ["CAM", "CM"],
+      "rating": 82,
+      "hidden_attributes": {
+        "pressing": 91,
+        "passing": 85,
+        "movement": 87,
+        "workrate": 93
+      }
+    },
+    {
+      "name": "Amad Diallo",
+      "nationality": "Ivory Coast",
+      "positions": ["RW", "CAM"],
+      "rating": 84,
+      "hidden_attributes": {
+        "dribbling": 89,
+        "creativity": 87,
+        "movement": 86,
+        "composure": 88
+      }
+    }
+  ]
+},
+
+{
+  "season": "2024/25",
+  "manager": {
+    "name": "Erik ten Hag / Ruud van Nistelrooy (interim) / Ruben Amorim",
+    "nationality": "Netherlands / Netherlands / Portugal",
+    "rating": 84,
+    "hidden_attributes": {
+      "tactical": 86,
+      "man_management": 83,
+      "stability": 74,
+      "transition_systems": 82
+    }
+  },
+  "players": [
+    {
+      "name": "André Onana",
+      "nationality": "Cameroon",
+      "positions": ["GK"],
+      "rating": 86,
+      "hidden_attributes": {
+        "distribution": 95,
+        "reflexes": 88,
+        "command": 86,
+        "composure": 88
+      }
+    },
+    {
+      "name": "Altay Bayındır",
+      "nationality": "Turkey",
+      "positions": ["GK"],
+      "rating": 81,
+      "hidden_attributes": {
+        "reflexes": 84,
+        "command": 82,
+        "distribution": 80,
+        "agility": 85
+      }
+    },
+
+    {
+      "name": "Diogo Dalot",
+      "nationality": "Portugal",
+      "positions": ["RB", "LB"],
+      "rating": 88,
+      "hidden_attributes": {
+        "stamina": 94,
+        "pace": 89,
+        "crossing": 88,
+        "defending": 86
+      }
+    },
+    {
+      "name": "Luke Shaw",
+      "nationality": "England",
+      "positions": ["LB", "CB"],
+      "rating": 86,
+      "hidden_attributes": {
+        "pace": 88,
+        "crossing": 87,
+        "defending": 87,
+        "composure": 88
+      }
+    },
+    {
+      "name": "Lisandro Martínez",
+      "nationality": "Argentina",
+      "positions": ["CB"],
+      "rating": 90,
+      "hidden_attributes": {
+        "defending": 93,
+        "aggression": 95,
+        "passing": 91,
+        "intelligence": 92
+      }
+    },
+    {
+      "name": "Harry Maguire",
+      "nationality": "England",
+      "positions": ["CB"],
+      "rating": 85,
+      "hidden_attributes": {
+        "aerial": 93,
+        "leadership": 91,
+        "positioning": 86,
+        "strength": 90
+      }
+    },
+
+    {
+      "name": "Kobbie Mainoo",
+      "nationality": "England",
+      "positions": ["CM", "CDM"],
+      "rating": 90,
+      "hidden_attributes": {
+        "composure": 95,
+        "dribbling": 90,
+        "passing": 89,
+        "intelligence": 93
+      }
+    },
+    {
+      "name": "Bruno Fernandes",
+      "nationality": "Portugal",
+      "positions": ["CAM", "CM"],
+      "rating": 92,
+      "hidden_attributes": {
+        "chance_creation": 97,
+        "vision": 96,
+        "passing": 95,
+        "leadership": 92
+      }
+    },
+    {
+      "name": "Mason Mount",
+      "nationality": "England",
+      "positions": ["CAM", "CM"],
+      "rating": 83,
+      "hidden_attributes": {
+        "pressing": 92,
+        "workrate": 93,
+        "passing": 86,
+        "movement": 88
+      }
+    },
+
+    {
+      "name": "Alejandro Garnacho",
+      "nationality": "Argentina",
+      "positions": ["LW", "RW"],
+      "rating": 89,
+      "hidden_attributes": {
+        "pace": 95,
+        "dribbling": 90,
+        "confidence": 94,
+        "movement": 90
+      }
+    },
+    {
+      "name": "Marcus Rashford",
+      "nationality": "England",
+      "positions": ["LW", "ST"],
+      "rating": 83,
+      "hidden_attributes": {
+        "pace": 93,
+        "finishing": 82,
+        "confidence": 78,
+        "movement": 86
+      }
+    },
+
+    {
+      "name": "Rasmus Højlund",
+      "nationality": "Denmark",
+      "positions": ["ST"],
+      "rating": 87,
+      "hidden_attributes": {
+        "pace": 91,
+        "strength": 90,
+        "movement": 89,
+        "finishing": 87
+      }
+    },
+    {
+      "name": "Antony",
+      "nationality": "Brazil",
+      "positions": ["RW"],
+      "rating": 82,
+      "hidden_attributes": {
+        "dribbling": 88,
+        "creativity": 83,
+        "workrate": 90,
+        "crossing": 81
+      }
+    },
+    {
+      "name": "Amad Diallo",
+      "nationality": "Ivory Coast",
+      "positions": ["RW", "CAM"],
+      "rating": 85,
+      "hidden_attributes": {
+        "dribbling": 90,
+        "creativity": 88,
+        "movement": 87,
+        "composure": 89
+      }
+    },
+    {
+      "name": "Scott McTominay",
+      "nationality": "Scotland",
+      "positions": ["CM", "CDM"],
+      "rating": 86,
+      "hidden_attributes": {
+        "physical": 93,
+        "stamina": 94,
+        "finishing": 86,
+        "movement": 87
+      }
+    },
+    {
+      "name": "Christian Eriksen",
+      "nationality": "Denmark",
+      "positions": ["CM"],
+      "rating": 84,
+      "hidden_attributes": {
+        "passing": 92,
+        "vision": 93,
+        "composure": 91,
+        "creativity": 90
+      }
+    }
+  ]
+},
+
+{
+  "season": "2025/26",
+  "manager": {
+    "name": "Ruben Amorim",
+    "nationality": "Portugal",
+    "rating": 89,
+    "hidden_attributes": {
+      "tactical": 92,
+      "pressing_system": 93,
+      "development": 91,
+      "adaptability": 88
+    }
+  },
+  "players": [
+    {
+      "name": "André Onana",
+      "nationality": "Cameroon",
+      "positions": ["GK"],
+      "rating": 87,
+      "hidden_attributes": {
+        "distribution": 95,
+        "reflexes": 89,
+        "command": 87,
+        "composure": 89
+      }
+    },
+    {
+      "name": "Altay Bayındır",
+      "nationality": "Turkey",
+      "positions": ["GK"],
+      "rating": 81,
+      "hidden_attributes": {
+        "reflexes": 84,
+        "command": 83,
+        "distribution": 80,
+        "agility": 85
+      }
+    },
+
+    {
+      "name": "Lisandro Martínez",
+      "nationality": "Argentina",
+      "positions": ["CB", "LCB"],
+      "rating": 90,
+      "hidden_attributes": {
+        "defending": 93,
+        "passing": 92,
+        "aggression": 95,
+        "intelligence": 93
+      }
+    },
+    {
+      "name": "Leny Yoro",
+      "nationality": "France",
+      "positions": ["CB"],
+      "rating": 86,
+      "hidden_attributes": {
+        "pace": 90,
+        "defending": 88,
+        "potential": 95,
+        "composure": 87
+      }
+    },
+    {
+      "name": "Matthijs de Ligt",
+      "nationality": "Netherlands",
+      "positions": ["CB"],
+      "rating": 88,
+      "hidden_attributes": {
+        "defending": 90,
+        "leadership": 91,
+        "aerial": 92,
+        "positioning": 89
+      }
+    },
+
+    {
+      "name": "Diogo Dalot",
+      "nationality": "Portugal",
+      "positions": ["RWB", "RB"],
+      "rating": 88,
+      "hidden_attributes": {
+        "stamina": 94,
+        "pace": 89,
+        "crossing": 89,
+        "workrate": 92
+      }
+    },
+    {
+      "name": "Luke Shaw",
+      "nationality": "England",
+      "positions": ["LWB", "CB"],
+      "rating": 85,
+      "hidden_attributes": {
+        "pace": 87,
+        "defending": 88,
+        "crossing": 86,
+        "intelligence": 88
+      }
+    },
+
+    {
+      "name": "Kobbie Mainoo",
+      "nationality": "England",
+      "positions": ["CM", "CDM"],
+      "rating": 91,
+      "hidden_attributes": {
+        "composure": 96,
+        "passing": 90,
+        "dribbling": 91,
+        "intelligence": 94
+      }
+    },
+    {
+      "name": "Bruno Fernandes",
+      "nationality": "Portugal",
+      "positions": ["CAM", "CM"],
+      "rating": 92,
+      "hidden_attributes": {
+        "chance_creation": 97,
+        "vision": 96,
+        "passing": 95,
+        "leadership": 93
+      }
+    },
+    {
+      "name": "Mason Mount",
+      "nationality": "England",
+      "positions": ["CAM", "CM"],
+      "rating": 82,
+      "hidden_attributes": {
+        "pressing": 92,
+        "workrate": 93,
+        "movement": 88,
+        "passing": 86
+      }
+    },
+
+    {
+      "name": "Alejandro Garnacho",
+      "nationality": "Argentina",
+      "positions": ["LW", "RW"],
+      "rating": 90,
+      "hidden_attributes": {
+        "pace": 96,
+        "dribbling": 91,
+        "confidence": 95,
+        "movement": 91
+      }
+    },
+    {
+      "name": "Marcus Rashford",
+      "nationality": "England",
+      "positions": ["LW", "ST"],
+      "rating": 82,
+      "hidden_attributes": {
+        "pace": 92,
+        "finishing": 81,
+        "confidence": 76,
+        "movement": 85
+      }
+    },
+    {
+      "name": "Rasmus Højlund",
+      "nationality": "Denmark",
+      "positions": ["ST"],
+      "rating": 88,
+      "hidden_attributes": {
+        "pace": 92,
+        "strength": 91,
+        "movement": 90,
+        "finishing": 88
+      }
+    },
+    {
+      "name": "Amad Diallo",
+      "nationality": "Ivory Coast",
+      "positions": ["RW", "CAM"],
+      "rating": 86,
+      "hidden_attributes": {
+        "dribbling": 91,
+        "creativity": 89,
+        "movement": 88,
+        "composure": 90
+      }
+    },
+    {
+      "name": "Joshua Zirkzee",
+      "nationality": "Netherlands",
+      "positions": ["ST", "CF"],
+      "rating": 84,
+      "hidden_attributes": {
+        "hold_up_play": 90,
+        "finishing": 85,
+        "movement": 88,
+        "link_up": 89
+      }
+    }
+  ]
+}
+
 ]
