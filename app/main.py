@@ -105,8 +105,6 @@ def choose_formation(state):
         f"\nFormation selected: {state.formation}"
     )
 
-
-
 def choose_position(player, state):
 
     available_positions = [
@@ -114,9 +112,7 @@ def choose_position(player, state):
         if p not in state.filled_positions
     ]
 
-
 possible = []
-
 
 def choose_position(player, state):
 
@@ -129,27 +125,28 @@ def choose_position(player, state):
     possible = []
 
 
-    for player_pos in player["positions"]:
+    for slot in available_positions:
 
-        compatible_positions = POSITION_MAP.get(
-            player_pos,
-            [player_pos]
+        slot_type = (
+            slot
+            .replace("1", "")
+            .replace("2", "")
+            .replace("3", "")
         )
 
 
-        for slot in available_positions:
+        for player_pos in player["positions"]:
 
-            clean_slot = (
-                slot
-                .replace("1", "")
-                .replace("2", "")
-                .replace("3", "")
+            compatible_positions = POSITION_MAP.get(
+                player_pos,
+                [player_pos]
             )
 
 
-            if clean_slot in compatible_positions:
+            if slot_type in compatible_positions:
 
-                possible.append(slot)
+                if slot not in possible:
+                    possible.append(slot)
 
 
 
@@ -186,8 +183,6 @@ def choose_position(player, state):
 
 
     return possible[choice]
-
-
 def show_draft_status(state):
 
     print("\n====================")
@@ -229,6 +224,50 @@ def show_draft_status(state):
 
 
     print("====================\n")
+
+def show_final_team(state):
+
+    print("\n🏁 FINAL TEAM\n")
+
+    if state.manager:
+
+        print(
+            "👔 Manager:",
+            state.manager["name"]
+        )
+
+    print("\nFormation:")
+    print(state.formation)
+
+
+    print("\nSquad:")
+
+    total_rating = 0
+
+
+    for position in state.available_positions:
+
+        for player in state.selected_players:
+
+            if player["position"] == position:
+
+                p = player["player"]
+
+                print(
+                    f"{position}: "
+                    f"{p['name']} "
+                    f"| {p['rating']}"
+                )
+
+                total_rating += p["rating"]
+
+
+    average = total_rating / len(state.selected_players)
+
+
+    print(
+        f"\n⭐ Squad Rating: {average:.1f}"
+    )
 
 def main():
 
@@ -430,27 +469,7 @@ def main():
 
 
 
-    print("\n🏁 FINAL TEAM:")
-
-
-    if state.manager:
-
-        print(
-            "Manager:",
-            state.manager["name"]
-        )
-
-
-    for p in state.selected_players:
-
-        print(
-            "-",
-            p["player"]["name"],
-            "|",
-            p["position"]
-        )
-
-
+    show_final_team(state)
 
 if __name__ == "__main__":
     main()
